@@ -1,0 +1,743 @@
+Contenidos:
+
+[Maqueta_formulario_inputs]    [Maqueta_ofertas_dupon]    [carga y manejo de archivo json a DOM]
+
+[De json a objeto]             [de objeto a json]  	  [filtros por selector en pagina DOM por json]
+
+[comprobacion_DNI]	       [comprobacion_mail]        [comprobacion_telefono]
+
+[numeros, frases DOM y colores aleatorios]		  [input solo lectura]
+
+[imagen + caja de texto + boton]			  [Ficha centrada muestra puntos + datos + fecha nacimiento]
+--------------------------------------------------------------------------------------------------------------------------------[ini-01]
+[Maqueta_formulario_inputs]
+
+<!-- Formulario que se puede duplicar cuanto se necesite, con boton de envio y borrado. estilos incl -->
+
+
+<main  id="contenedor"  style="width: 90%; margin: auto;">
+
+    <div id="titulos">
+        <h1>Titulo en grande</h1>
+        <h2>Subtitulo</h2>
+        </div>
+        
+<article  id="generico_00" > 
+
+<fieldset id="cont_ficha"  style="border-radius: 1vw; display: flex; justify-content: center; ">
+
+<div id="img_ficha" style="margin-right: 1.5vw;  ;">
+
+
+<img  style="width:10vw; border-radius: 1vw"   alt="imagen_ficha"  src="img/generico.jpg">
+
+</div>
+
+
+<div id="bloque_izq"  style="margin-right: 1.5vw; margin-left: 4vw;">
+<p>Numero</p>
+<input type="text" id="gen_numero">
+<p>Nombre</p>
+<input type="text" id="gen_nombre">
+<p>Apellidos</p>
+<input type="text" id="gen_Apell">
+</div>
+
+<div id="bloque_der">
+<p>Fecha nacimiento</p>
+<input type="text" id="gen_fech">
+<p>DNI</p>
+<input type="text" id="gen_dni">
+<p>Telefono</p>
+<input type="text" id="gen_tel">
+</div>
+
+
+<div id="bloque_der_02"  style="display: flex; flex-direction: column; justify-content: center; margin-left: 4.5vw;">
+ 
+<button type="button" onclick="funcion()" style="margin-bottom: 1vw;"> generico_00 </button>
+
+<button type="button" onclick="funcion()"> generico_01 </button>
+
+</fieldset>
+
+
+</article>
+
+
+</main>
+
+
+<!-- final de formulario con boton de envio y borrado, estilos incl -->
+
+
+
+acceso a los datos del formulario:
+
+                             /////////esta funcion esta enlazada a uno de los onclic="" de los botones.
+function lala(){
+
+
+let prueba = document.getElementById('gen_nombre').value; 
+
+alert('¿funciona?, dime que si...'+"   "+prueba);
+
+
+}
+
+
+--------------------------------------------------------------------------------------------------------------------------------[end-01]
+
+--------------------------------------------------------------------------------------------------------------------------------[ini-02]
+[Maqueta_ofertas_dupon]
+
+<!-- imita ofertas del dupon  inicio -->
+
+<main  id="contenedor"  style="width: 90%; margin: auto;">
+
+<article id="imita_dup0on">
+
+<h1  id="titulo_articulo">Titulo_ofertas_genericas</h1>
+
+<fieldset id="contenedor_00" style="display: flex;" >
+
+<div id="generica_00" style="width:21vw;  margin-right: 1.5vw;">
+    
+<img src="img/generica_02.jpg" style="border-radius: 1vw; width: 21vw;">
+<h3 id="desc_sup" >Texto descriptivo parte superior  <br> Texto descriptivo parte inferior...</h3>
+<p id="desc_infe">DESCRIPCION,22,coscos·70.2 Km</p>
+
+
+<div style="display: flex; align-items: center; justify-content: space-between;   width: 300px;">
+<h2  style="text-decoration: line-through;" id="gen_precio" >150 €</h2> 
+<p style="color: darkgreen;" >Desde</p>
+<h2 style="color: darkgreen; font-weight: bolder;"  id="gen_descuento">85 €</h2>
+<p style="color: darkgreen;  background-color: aquamarine;" id="gen_porcentaje" > 222 % de descuento </p>
+</div>
+
+</div>
+
+
+</fieldset>
+
+</article>
+
+</main>
+
+<!-- imita ofertas del dupon  final -->
+
+
+--------------------------------------------------------------------------------------------------------------------------------[end-02]
+
+
+
+---------------------------------------------------------------------------------------------------------------------------------[ini-12]
+[imagen + caja de texto + boton]
+
+<fieldset style="margin-top: 1.5vw;"> 
+
+<div style="display: flex; justify-content: center;">
+
+    <div id="img_ficha" style="margin-right: 1.5vw;  ;">
+        <img  style="width:10vw; border-radius: 1vw;"   alt="imagen_ficha"  src="img/generico.jpg">
+        </div>
+
+  <textarea name="textos" id="gen_text" cols="100" rows="10" style="resize: none;"></textarea>
+ 
+  <div style="display: flex; justify-content: center; margin-left: 1.5vw;">
+  <button type="button" onclick="" id="gen_boton">Generico_00</button>
+</div>
+
+
+</div>
+
+
+</fieldset>
+
+
+
+---------------------------------------------------------------------------------------------------------------------------------[end-12]
+
+
+---------------------------------------------------------------------------------------------------------------------------------[ini-13]
+
+[Ficha centrada muestra puntos + datos + fecha nacimiento]
+
+
+<article>
+<fieldset style="margin-top: 1.5vw; display: flex; justify-content: center;"> 
+
+    <div id="img_ficha" style="margin-right: 1vw;  ;">
+        <img  style="width:15vw; border-radius: 1vw;"   alt="imagen_ficha"  src="img/generico.jpg">
+        </div>
+
+<div style="display: flex; flex-direction: column;">
+
+    <div id="gen_propiedades"  style="display: flex; width:0.5vw;"> 
+   <p style="font-weight: bold; margin-right: 1.5vw;">Numero</p>  <p style="margin-right:1.5vw;">texto_numero</p>
+    </div>   
+    <div style="display: flex; justify-content: flex-start; margin-top: 1.5vw;">
+    <p style="font-weight: bold; margin-right: 1.5vw;">Nombre</p>  <p style="margin-right:1.5vw;" >texto_nombre</p>
+    <p style="font-weight: bold; margin-right: 1.5vw;">Apellidos</p>  <p style="margin-right:1.5vw;" >texto_apellidos</p>
+    <p style="font-weight: bold; margin-right: 1.5vw;">Fecha nacimiento</p>  <p style="margin-right:1.5vw;">texto_nacimiento</p>
+    </div> 
+
+    <div>
+        <p style="font-weight: bold;" >Puntuacion:</p>
+        <h1 style="font-size: xx-large;">1750 puntos</h1>
+    
+        </div>
+    </div>
+</fieldset>
+
+</article>
+
+
+
+
+---------------------------------------------------------------------------------------------------------------------------------[end-13]
+
+
+---------------------------------------------------------------------------------------------------------------------------------[ini_03]
+[carga y manejo de archivo json a DOM]
+
+
+////////////////////////////////////////jugadores.json:
+
+[{"nombre" : "pepito", "apellidos" : "de los palotes", "fecha de nacimiento" : "10-02-1977", "puntuacion" : 150},
+{"nombre" : "marianico", "apellidos" : "el corto", "fecha de nacimiento" : "15-05-2021", "puntuacion" : 200},
+{"nombre" : "lala","apellidos" : "lalela","fecha de nacimiento" : "05-10-1989","puntuacion" : 55},
+{"nombre" : "maria","apellidos": "crianas","fecha de nacimiento" : "01-01-1980","puntuacion" : 10},
+{"nombre" : "lesles","apellidos" : "curquito", "fecha de nacimiento" : "01-06-1975","puntuacion" : 1685}
+]
+
+
+/////////////////////////////////////////carga de datos:
+
+
+function carga_datos() {              
+    
+    // metodo alternativo, que te permite ver el contenido del json en el navegador:  (clicando en el)
+    // fetch('http://127.0.0.1:5500/2_evaluacion/ejercicio_java_script_JSON_AJAX/datos/jugadores.json')
+    
+    fetch('./datos/jugadores.json')        
+
+        .then(pre_carga => pre_carga.json())        
+        .then((datos) => {                    
+            crear_pagina(datos);    
+            
+            // debug :
+        //  alert('prueba de carga: ' + "  "+ datos[0].Nombre);
+
+
+        })
+        .catch(error=>console.log("Error de procesado",error));      
+}
+
+
+carga_datos();
+
+
+//////////////////////////////////////////////////crea pagina:
+
+
+function crear_pagina(jugadores){
+
+    let contenido = document.querySelector('#aqui'); 
+    contenido.innerHTML = '';
+    
+
+    for (let jugador of jugadores ) {   
+        contenido.innerHTML += `   
+
+        <br>
+        <br>   
+        <div class ="fichas">
+
+
+             <div>
+                      <img src="${jugador.foto}" alt="">  
+                      <h1>Puntos: </h1>${jugador.Puntuacion}   <br>
+                      <br>
+             </div>
+            
+    ` 
+         };
+}
+
+
+---------------------------------------------------------------------------------------------------------------------------------[end_03]
+
+---------------------------------------------------------------------------------------------------------------------------------[ini_04]
+
+[De json a objeto]   								[para la carga es preferible el metodo sincronico o ajax]
+
+
+/////////////////////////datos.json 
+
+
+{
+
+ "pelicula" : [{"nombre" : "Et",
+		"sinopsis" : "un elefante trampero se pierde en un bingo...",
+		"estreno" : " Proximo 2025",
+		"edadrecomendada" : "35 años",
+		"genero" : "drama",
+		"sesiones" : "15:00  - 17:00  - 21:00"}],
+      }
+
+
+                       ///////se declaran variables globales
+let nombre ="";
+let apellidos = "";
+let nacimiento = "";
+let puntos = 0 ;
+
+                                      ////////// se declara constructor
+function peliculas(a,b,c,d,e,f){
+
+this.nombre =a;
+this.sinopsis =b;
+this.estreno =c;
+this.edad=d;
+this.genero=e;
+this.sesiones=f;
+
+}
+
+                                   //////////// se carga de modo asimetrico el json y se asigna a variables, que despues se pasan a un objeto.
+    async function ejer_02(){
+
+  const response = await fetch("http://127.0.0.1:5500/2_evaluacion/ejercicio_java_script_03/datos.json");
+  const json = await response.json();
+
+  let nombre = json.pelicula[0].nombre;
+  let sinopsis =json.pelicula[0].sinopsis;
+  let estreno =json.pelicula[0].estreno;
+  let edad=json.pelicula[0].edadrecomendada;
+  let genero=json.pelicula[0].genero;
+  let sesiones=json.pelicula[0].sesiones;
+
+
+  let estrenor = new peliculas(nombre,sinopsis,estreno,edad,genero,sesiones); 
+
+   alert('Nombre del peliculon: '+"  "+ estrenor.nombre ");
+
+
+}
+
+---------------------------------------------------------------------------------------------------------------------------------[end_04]
+
+----------------------------------------------------------------------------------------------------------------------------------[ini_05]
+[de objeto a json]  								 [para la carga es preferible el metodo sincronico o ajax]
+
+
+
+			////////// mandamos un objeto a una funcion para pasarlo
+
+function ejer_03(){
+
+let cliente_01 = new crucero("titanic","madrid","un barquito de papel","01-02-2023","30-06-2023","15");
+
+pasar_a_json(cliente_01);
+
+}
+
+
+			///////// mediante una funcion asimetrica pasamos los datos del objeto a json. Se pueden mostrar en 'alert'
+
+async function pasar_a_json(bb){
+
+alert(JSON.stringify(bb));
+
+} 
+
+
+
+
+---------------------------------------------------------------------------------------------------------------------------------[end_05]
+
+
+---------------------------------------------------------------------------------------------------------------------------------[ini_06]
+[filtros por selector en pagina DOM por json]
+
+
+////////////////////////////////////////////////En el HTMl
+
+                                                        ///////// el valor del filtro es el 'value' del drowp
+    <main>
+
+        <div><h1>Ejercicio_ajax_03</h1></div>
+        <div id="filtro">
+            <select id="Salario">
+               <option value="Todos">Todos</option>
+               <option value="350 €">350 €</option>
+               <option value="650 €">650 €</option>
+               <option value="750 €">750 €</option>
+            </select>
+        </div>
+
+     <section id="aqui">
+
+     </section>
+
+
+    </main>
+
+//////////////////////////////////////////// en el javascript
+
+                                                     ////////////////// en la cabecera del .js hay que poner un "listener" que recarga la 
+						/////////////////  pagina si detecta cambios en el drowp del HTML
+
+carga_datos();
+
+
+ document.getElementById('Salario').addEventListener('change', () => {
+
+     carga_datos();
+ });
+
+
+
+///////////////////////////////////// en el mismo javascript tras la cabecera...
+
+
+function crear_pagina(empleados){
+
+    let contenido = document.querySelector('#aqui'); 
+    contenido.innerHTML = '';
+     var filtro_sueldo = document.getElementById("Salario").value;
+
+
+    for (let empleado of empleados ) {                                        //////////////////el if es el filtro, todos son todos, si no, coje el indice del valor del filtro.
+        
+        if ((filtro_sueldo == "Todos")  || ((empleado.sueldo.indexOf(filtro_sueldo)) == 0) ) {
+
+
+        contenido.innerHTML += `   
+   
+        <div id="numero" >
+        <h1>Empleado</h1>  <text id="e_empleado">${empleado.numero}</text>   
+       </div>
+
+
+<div  id="divisor">
+<div id="contenedor" >
+
+    <div>
+<label for="nombre">Nombre</label>
+${empleado.nombre}
+<label for="apellidos">Apellidos</label>
+${empleado.apellidos}
+    <label for="cargo">Cargo</label>
+${empleado.cargo}
+</div>
+
+<img src="${empleado.imagen}" alt="">
+
+
+</div>
+
+<div class="sueldo">
+<label for="sueldo">Sueldo</label>
+${empleado.sueldo}
+</div>
+
+</div>
+           
+    ` 
+         }
+        };
+
+
+
+    }
+
+
+
+
+///////////////////////////////////// en el mismo javascript mas abajo...
+
+						/////// esta carga es la que a posterior inicia la construccion de la pagina
+
+function carga_datos() {              
+    
+    // metodo alternativo, que te permite ver el contenido del json en el navegador:  (clicando en el)
+    // fetch('http://127.0.0.1:5500/2_evaluacion/ejercicio_java_script_JSON_AJAX/datos/jugadores.json')
+    
+    fetch('./datos/datos.json')        
+
+        .then(pre_carga => pre_carga.json())        
+        .then((datos) => {                    
+        crear_pagina(datos);    
+            
+            // debug :
+        //  alert('prueba de carga: ' + "  "+ datos[0].nombre);
+
+
+        })
+        .catch(error=>console.log("Error de procesado",error));      
+}
+
+
+---------------------------------------------------------------------------------------------------------------------------------[end_06]
+
+---------------------------------------------------------------------------------------------------------------------------------[ini_07]
+
+[comprobacion_DNI]
+
+
+  ////////////////////////creamos funcion para ejecutar las comprobaciones
+
+
+      function comprobar() {
+
+                                /////////////////////// asignamos valor del input DNI a una variable
+
+    let comp_dni = document.getElementById('dni').value;
+                                                       ///////// para que funcione bien, cambia el id 'dni' por el correcto de tu input
+// 
+//  Bloque de comprobacion del DNI
+//                                                                   
+
+if (comp_dni.length != 9 || comp_dni.length == 0){
+
+    /// Primera comprobacion del DNI, la extension del mismo. A de tener 9 caracteres.
+
+alert(' COMP 001 : Extension del dni incorrecta, vuelva a introducirlo');
+document.getElementById('dni').value = "";
+
+}else {
+
+if (!isNaN(comp_dni)){
+
+ // Segunda comprobacion del DNI, a de tener una letra.
+
+    alert('COMP 001 : el dni no tiene todos los datos, falta la letra');
+    document.getElementById('dni').value = "";
+
+
+}else{
+    
+    // Tercera y ultima comprobacion del DNI, los 8 primeros caracteres han de ser numericos.
+
+    let id_numero = comp_dni.substring(0,8);
+
+    if (!isNaN(id_numero)) {
+
+    alert(' COMP 001 : El DNI es correcto, tiene 8 numeros y una letra.');
+
+  
+}else{
+
+    alert('COMP 001 : El dni es incorrecto, la letra no esta en la posicion correcta. Vuelva a introducirlo.');
+    document.getElementById('dni').value = "";
+
+}
+
+}
+
+}
+
+      }
+
+---------------------------------------------------------------------------------------------------------------------------------[end_07]
+
+
+---------------------------------------------------------------------------------------------------------------------------------[ini_08]
+
+[comprobacion_mail]
+
+                          ////////////////////////creamos funcion para ejecutar las comprobaciones
+function comprobar() {
+
+			  /////////////////////// asignamos valor del input email a una variable
+
+      let comp_mail = document.getElementById('mail').value;
+
+				 ///////// para que funcione bien, cambia el id 'mail' por el correcto de tu input
+
+
+// 
+//  Bloque de comprobacion del mail
+//
+
+
+//// primera comprobacion del mail, tiene @
+
+if (comp_mail.includes("@")) {
+
+/// segunda comprobacion del mail, comprobar si tiene un dominio referenciado (mediante un punto) se podria
+// afinar más, pero esto se supone que es grado medio y yo un novato... :-)
+
+let valida_mail = comp_mail.split('@');
+
+if (valida_mail[1].includes(".")){
+
+    alert('COMP 002: La direccion de correo introducida es valida.');
+
+}else{
+
+    // si incluye @ pero no dominio (por el punto) tiene que volver a introducir el dato
+
+alert('COMP 002: La direccion de correo introducida no es valida. Carece de dominio. Introduzcala de nuevo');
+document.getElementById('mail').value = "";
+
+}
+
+ }else{
+
+    // Y este es el error que se muestra si no tiene @ (esta tan abajo por los anteriores else)
+
+alert('COMP 002: La direccion de correo introducida no es valida o el campo esta vacio. Introduzcalo de nuevo');
+ document.getElementById('mail').value = "";
+
+
+ }
+
+
+
+
+}
+
+
+
+---------------------------------------------------------------------------------------------------------------------------------[end_08]
+
+
+---------------------------------------------------------------------------------------------------------------------------------[ini_09]
+[comprobacion_telefono]
+
+
+                          ////////////////////////creamos funcion para ejecutar las comprobaciones
+function comprobar() {
+
+
+		  /////////////////////// asignamos valor del input email a una variable
+
+      let comp_mov = document.getElementById('mov').value;
+
+				 ///////// para que funcione bien, cambia el id 'mov' por el correcto de tu input
+
+// 
+//  Bloque de comprobacion del telefono
+//
+
+
+/// Primera comprobacion, el movil tiene 9 digitos.
+
+if(comp_mov.length != 9){
+
+alert('COMP 003: La extension del numero de movil es incorrecta, o no a introducido ninguno. Introduzca el numero sin espacios ni separaciones.  XXXXXXXXX')
+document.getElementById('mov').value = "";
+
+}else{
+
+/// segunda y ultima comprobacion; no hay letras, todo son numeros.
+
+
+if(!isNaN(comp_mov)){
+
+    alert('COMP 003: Aparentemente el numero de telefono es correcto. Esta formado por 9 numeros.');
+
+}else{
+
+
+
+/// este el mensaje de error si se han introducido letras.
+
+alert('COMP 003: EL numero de telefono no puede contener letras. Introduzcalo nuevamente.');
+document.getElementById('mov').value = "";
+
+
+}
+
+}
+}
+
+
+---------------------------------------------------------------------------------------------------------------------------------[end_09]
+
+
+
+----------------------------------------------------------------------------------------------------------------------------------[ini_10]
+[numeros, frases DOM y colores aleatorios]
+
+   ///////////// genera colores aleatorios en base a un array que ya los contiene y un random que los delimita a 3
+
+
+function colores(){
+
+let colorines = ["red","blue","green"];
+
+document.getElementById("aqui").style.color = colorines[Math.round(Math.random()*2)];
+
+                                                /////////////////// math.roun, redondea hacia un entero el numero. y el *2 delimita el resultado de 0 a 2
+
+}
+              //////////////////// cambiar el color de las letras del body 
+
+     let colores = ['red','blue','green'];
+
+    color_m = colores[Math.round(Math.random()*2)];
+    
+    document.body.style.color = color_m;
+
+
+		/////////// cambiar el color del background
+
+      let colores = ['red','blue','green'];
+
+ color_m = colores[Math.round(Math.random()*2)];
+
+    document.body.style.backgroundColor = color_m;
+
+
+
+   		///////////// introduce frases aleatorias
+
+
+let frases = ['pues no me dio tiempo','de haber sido un examen','lo habria suspendido','es chunga esta asignatura','pero mucho'];
+
+                 document.getElementById('aqui').innerHTML =("<h1>"+frases[Math.round(Math.random()*4)]+"</h1>");
+      
+
+
+	///////////////////////// genera numeros aleatorios en DOM
+
+
+                   document.getElementById('fuerza').value = (Math.round(Math.random()*18));
+                   document.getElementById('const').value = (Math.round(Math.random()*18));
+                   document.getElementById('dest').value = (Math.round(Math.random()*18));
+                   document.getElementById('car').value =(Math.round(Math.random()*18));
+
+
+									//////////////////// en este caso los valores del random (siempre entero) estaran del 0 al 18
+
+
+
+----------------------------------------------------------------------------------------------------------------------------------[end_10]
+
+----------------------------------------------------------------------------------------------------------------------------------[Ini_11]
+[input solo lectura]
+
+		 <input type="text" id="fuerza" readonly="readonly">
+
+
+
+
+
+----------------------------------------------------------------------------------------------------------------------------------[End_11]
+
+
+
+
+
+
+
+
+
+
+
+
+
