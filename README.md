@@ -3,7 +3,7 @@ Apuntes, ejercicios y materiales que utilice durante el grado tecnico SRM
 
 Este repositorio contiene todos los apuntes, ejercicios y materiales que desarrolle y utilice durante mi periodo de estudio del grado técnico en micro sistemas y redes SRM.
 
-<font color="blue">Este texto es azul<b> ¿A qué periodo temporal corresponden?</b></font>
+<b color="blue" > ¿A qué periodo temporal corresponden?</b></font>
 
 El curso corresponde al periodo académico 2021-2023, y el temario formativo es el de las Illes Balears.
 
