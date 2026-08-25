@@ -1,0 +1,246 @@
+
+
+Bloque de cabecera:
+
+ *iniciar la codificacion: html5 - tab
+
+    <link href="ccs/normalize.css" rel="stylesheet" type="text/css" />
+    <link href="ccs/style.css" rel="stylesheet" type="text/css" />
+
+    <link rel="shortcut icon" href="img/icono.ico">
+
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Roboto+Mono:wght@100&display=swap" rel="stylesheet">
+
+
+
+<!-- ########################################################################################
+|Santiago Garcia Santiago  |
+|AW - 2. SMX   [00-10-2022]|
+######################################################################################## -->
+
+java script:
+
+crear carpeta "js" en raiz de la web
+
+para cargarlo:
+
+-En html5 solo se carga si esta al final del Body...
+
+ <script src="js/script.js"></script>
+</body>
+</html>
+
+
+
+sticky :
+
+
+div.sticky {
+  position: -webkit-sticky; /* Safari */
+  position: sticky;
+  top: 0;
+}
+
+
+
+espacio en html:
+&nbsp;
+
+
+
+href para que se abra en una nueva pestaña:
+
+ <a href="https://youtu.be/auvNyVt9tYQ" target="_blank"> </a>
+
+
+Tamaños de fuente adaptativa recomendados:
+Textos normales:	1.5vw;
+Textos h1:		4.5vw;
+Textos h2:		2.5vw;
+
+---------------------------------------------------------------------------------
+adaptative web imagenes:
+div {
+/*Dimensiones deseadas */
+}
+Img {
+Max-width:xxx.px;
+min-width:xxx.px
+Width:100%;
+}
+
+metodo_02:
+
+<div class=”container”>
+<img src=”img/small.png” 
+srcset=”img/big.png 2x,img/small.png 1x”/>
+</div>
+-----------------------------------------------------------------------------------
+
+
+
+adaptative web:
+
+@media(min-width:500px) and (max-width:768px) {
+
+/* pantalla movil */
+}
+
+
+@media(min-width:768px) and (max-width:1200px) {
+
+
+/* pantalla tablet */
+
+}
+
+@media (min-width:1200px) {
+
+/* pantalla PC desktop */
+/* Faltaria definir el max... */
+}
+
+
+
+
+
+fuentes del google:
+
+https://fonts.google.com/
+
+para titulos:  Noto sans / Lato / Open
+
+
+
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Roboto+Mono:wght@100&display=swap" rel="stylesheet"> 
+
+_________________________________________________________________________________________________________
+textos:  Roboto    [tamaño pequeña]
+
+
+https://fonts.google.com/specimen/Roboto+Mono?query=roboto
+
+
+en css:
+
+font-family: 'Roboto Mono', monospace;
+
+en head:
+
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Roboto+Mono:wght@100&display=swap" rel="stylesheet">
+
+
+
+regular 400 / 16:
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Roboto&display=swap" rel="stylesheet">
+
+font-family: 'Roboto', sans-serif;
+
+_________________________________________________________________________________________________________
+
+_________________________________________________________________________________________________________
+
+titulos: Noto sans
+
+link: https://fonts.google.com/noto/specimen/Noto+Sans?query=Noto+sans&subset=latin
+regular 400
+
+en css:
+
+    font-family: 'Noto Sans', sans-serif;
+
+
+en head:
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Noto+Sans&display=swap" rel="stylesheet"> 
+__________________________________________________________________________________________________________
+
+titulos: lato
+
+https://fonts.google.com/specimen/Lato?query=lato&subset=latin
+
+light 300
+
+en css:
+
+font-family: 'Lato', sans-serif;
+
+en head:
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Lato:wght@300&display=swap" rel="stylesheet">
+
+
+
+
+__________________________________________________________________________________________________________
+
+
+Titulo: Loto sans
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Lato&display=swap" rel="stylesheet">
+
+en css:
+font-family: 'Lato', sans-serif;
+
+
+
+
+__________________________________________________________________________________________________________
+titulos : open
+
+url:https://fonts.google.com/specimen/Open+Sans?query=open&subset=latin
+
+medium 500
+
+
+
+en css:
+
+font-family: 'Open Sans', sans-serif;
+
+en head:
+
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@500&display=swap" rel="stylesheet">
+
+
+
+
+
+
+//////////////////////////////////////////////////////////////////////////////////////////
+
+falta lo de cargar y utilizar diferentes fuentes desde el google fonts.
+
+
+https://www.tictacsoluciones.com/blog/transformaciones-css3-girar-una-imagen
+
+https://uniwebsidad.com/foro/pregunta/472/como-redondear-con-css-imagenes-cuadradas-y-rectangulares/
+
+https://developer.mozilla.org/es/docs/Learn/HTML/Multimedia_and_embedding/Images_in_HTML
+
+https://mosaic.uoc.edu/ac/le/es/m6/ud10/index.html
+
+https://cybmeta.com/como-se-utiliza-z-index
+
+https://lineadecodigo.com/css/redondear-bordes-con-css/
