@@ -1,0 +1,24 @@
+echo 
+echo BAT automatizado 
+echo
+pause 100
+cd series
+move blue*  bluebloods
+move bull*  bull
+move el_joven_shel* eljovensheldon
+move el_visitan* elvisitante
+move fbi_* fbi
+move hawaii_* hawai50
+move la_materia_osc* lamateriaoscura
+move mentes_crimina* mentescriminales
+move prodigal_som* prodigal
+move star_trek* picard
+move prodigal_* prodigal
+move the_good_* thegooddoctor
+move the_rookie* therookie
+echo
+echo cls
+echo
+echo terminado
+pause 1000
+tree /f
