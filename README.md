@@ -1,3 +1,10 @@
+>[!WARNING]
+># En construcción, en unas horas estará terminado... Paciencia....   
+># 25-08-26
+
+
+
+
 # Materiales de estudio grado tecnico SRM
 Apuntes, ejercicios y materiales que utilice durante el grado tecnico SRM
 
