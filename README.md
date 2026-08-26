@@ -1,6 +1,6 @@
 >[!WARNING]
-># En construcción, en unas horas estará terminado... Paciencia....   
-># 25-08-26
+># En construcción, esto es más laborioso de lo que parece....   
+># ultima revision: 26-08-26
 
 
 # Materiales de estudio:<br>**Grado Técnico en Microsistemas y Redes [SRM]**
