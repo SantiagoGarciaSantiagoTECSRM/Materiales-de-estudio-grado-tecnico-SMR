@@ -60,11 +60,11 @@ Descargando el archivo y abriéndolo en su sistema.
 
 <table style="margin: 0 auto; width: 50%; border-collapse: collapse; align:center;"">
   <tr>
-    <th style="border: 1px solid black; padding: 8px;">Ejercicios y dosieres &emsp; &emsp; &emsp;&emsp; &emsp;  &emsp;[SOM]</th>
+    <th style="border: 1px solid black; padding: 8px;">Ejercicios y dosieres </th>
   </tr>
   <tr>
     <td style="border: 1px solid black; padding: 8px;">
-     <a href="https://github.com/SantiagoGarciaSantiagoTECSRM/Materiales-de-estudio-grado-tecnico-SRM/blob/Apuntes-y-ejercicios-del-primer-a%C3%B1o-SRM/Ejercicio_SOM_%5B01%5D7zip.pdf">01 Ejercicio 7zip + [SOM] </a>  &emsp; &emsp; <a href="https://github.com/SantiagoGarciaSantiagoTECSRM/Materiales-de-estudio-grado-tecnico-SRM/blob/Apuntes-y-ejercicios-del-primer-a%C3%B1o-SRM/Ejercicio_SOM_%5B01%5Dadm_usuarios.pdf">02 Ejercicio Administracion de usuarios [SOM]  </a> <br>      </td>
+     <a href="https://github.com/SantiagoGarciaSantiagoTECSRM/Materiales-de-estudio-grado-tecnico-SRM/blob/Apuntes-y-ejercicios-del-primer-a%C3%B1o-SRM/Ejercicio_SOM_%5B01%5D7zip.pdf">01 Ejercicio 7zip + [SOM] </a>  &emsp; &emsp; <a href="https://github.com/SantiagoGarciaSantiagoTECSRM/Materiales-de-estudio-grado-tecnico-SRM/blob/Apuntes-y-ejercicios-del-primer-a%C3%B1o-SRM/Ejercicio_SOM_%5B01%5Dadm_usuarios.pdf">02 Ejercicio Administracion de usuarios [SOM]  </a>  &emsp; &emsp; <a href="https://github.com/SantiagoGarciaSantiagoTECSRM/Materiales-de-estudio-grado-tecnico-SRM/blob/Apuntes-y-ejercicios-del-primer-a%C3%B1o-SRM/Ejercicio_SOM_%5B01%5Dadm_usuarios.pdf">02 Ejercicio Administracion de usuarios [SOM]  </a>     </td>
   </tr>
 
 </table>
