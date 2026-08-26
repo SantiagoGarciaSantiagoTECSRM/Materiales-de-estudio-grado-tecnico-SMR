@@ -64,8 +64,7 @@ Descargando el archivo y abriéndolo en su sistema.
   </tr>
   <tr>
     <td style="border: 1px solid black; padding: 8px;">
-     <a href="">Primera evaluación [SOM] </a><br>
-     <a href="">Segunda evaluación [SOM] </a> </td>
+     <a href="https://github.com/SantiagoGarciaSantiagoTECSRM/Materiales-de-estudio-grado-tecnico-SRM/blob/Apuntes-y-ejercicios-del-primer-a%C3%B1o-SRM/Ejercicio_SOM_%5B01%5D7zip.pdf">01 Ejercicio 7zip + [SOM] </a>  &emsp; &emsp; <a href="https://github.com/SantiagoGarciaSantiagoTECSRM/Materiales-de-estudio-grado-tecnico-SRM/blob/Apuntes-y-ejercicios-del-primer-a%C3%B1o-SRM/Ejercicio_SOM_%5B01%5Dadm_usuarios.pdf">02 Ejercicio Administracion de usuarios [SOM]  </a> <br>      </td>
   </tr>
 
 </table>
