@@ -3,9 +3,9 @@
 ># ultima revision: 26-08-26
 
 
-# Materiales de estudio:<br>**Grado Técnico en Microsistemas y Redes [SRM]**
+# Materiales de estudio:<br>**Grado Técnico en Microsistemas y Redes [SMR]**
 
-Este repositorio contiene todos los apuntes, ejercicios y materiales que desarrolle y utilice durante mi periodo de estudiante del **[SRM]**.
+Este repositorio contiene todos los apuntes, ejercicios y materiales que desarrolle y utilice durante mi periodo de estudiante del **[SMR]**.
 
 **[Indice Año_01](#año_01)** **|** **[Indice Año_02](#año_02)** **|** **[Libros de texto](#año_01_02)**
 
@@ -21,7 +21,7 @@ Este repositorio contiene todos los apuntes, ejercicios y materiales que desarro
 >
 >Estos dos módulos en mi caso particular, fueron muy sencillos, dada mi experiencia profesional tanto con el hardware como con la ofimática (de la que había ejercido como formador no reglado durante más de 5 años).
 >
->Únicamente destacar, que a diferencia de lo que recomienda el temario oficial de **SRM** los centros educativos españoles, imparten AO mediante suites ofimáticas GNU y las herramientas ofimáticas en línea de Google.
+>Únicamente destacar, que a diferencia de lo que recomienda el temario oficial de **SMR** los centros educativos españoles, imparten AO mediante suites ofimáticas GNU y las herramientas ofimáticas en línea de Google.
 >
 >Durante la impartición de este modulo, no se emplea el Microsoft Office.
 >
