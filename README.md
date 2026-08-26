@@ -3,11 +3,12 @@
 ># 25-08-26
 
 
-# Materiales de estudio grado tecnico SRM
+# Materiales de estudio:<br>**Grado Técnico en Microsistemas y Redes [SRM]**
 
-Este repositorio contiene todos los apuntes, ejercicios y materiales que desarrolle y utilice durante mi periodo de estudio del grado técnico en micro sistemas y redes SRM.
+Este repositorio contiene todos los apuntes, ejercicios y materiales que desarrolle y utilice durante mi periodo de estudiante del **[SRM]**.
 
 **[Indice Año_01](#año_01)** **|** **[Indice Año_02](#año_02)** **|** 
+
 
 
 
@@ -27,11 +28,7 @@ Este repositorio contiene todos los apuntes, ejercicios y materiales que desarro
 > * También están excluidos los módulos de "Formación e iniciativa empresarial" y "Orientación Laboral".-
 
 
-
-
-
-
-
+<hr>
 
 
 **¿A qué periodo temporal corresponden?**
