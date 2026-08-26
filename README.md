@@ -45,15 +45,6 @@ Descargando el archivo y abriéndolo en su sistema.
 
 <a name="año_01">Indice año 01: </a>
 
-<table style="margin: 0 auto; width: 50%; border-collapse: collapse; align:center;"">
-  <tr>
-    <th style="border: 1px solid black; padding: 8px;">Sistemas Operativos Mono Puesto [SOM]</th>
-  </tr>
-  <tr>
-    <td style="border: 1px solid black; padding: 8px;">
-     <a href="https://github.com/SantiagoGarciaSantiagoTECSRM/Materiales-de-estudio-grado-tecnico-SRM/blob/Apuntes-y-ejercicios-del-primer-a%C3%B1o-SRM/Apuntes_corregidos_SOM.pdf">Primera evaluación [SOM] </a><br>
-     <a href="https://github.com/SantiagoGarciaSantiagoTECSRM/Materiales-de-estudio-grado-tecnico-SRM/blob/Apuntes-y-ejercicios-del-primer-a%C3%B1o-SRM/Apuntes_teoria_SOM_2EDVA.pdf">Segunda evaluación [SOM] </a> </td>
-  </tr>
 
 <table style="margin: 0 auto; width: 50%; border-collapse: collapse; align:center;"">
   <tr>
@@ -63,23 +54,21 @@ Descargando el archivo y abriéndolo en su sistema.
     <td style="border: 1px solid black; padding: 8px;">
      <a href="https://github.com/SantiagoGarciaSantiagoTECSRM/Materiales-de-estudio-grado-tecnico-SRM/blob/Apuntes-y-ejercicios-del-primer-a%C3%B1o-SRM/Apuntes_corregidos_SOM.pdf">Primera evaluación [SOM] </a><br>
      <a href="https://github.com/SantiagoGarciaSantiagoTECSRM/Materiales-de-estudio-grado-tecnico-SRM/blob/Apuntes-y-ejercicios-del-primer-a%C3%B1o-SRM/Apuntes_teoria_SOM_2EDVA.pdf">Segunda evaluación [SOM] </a> </td>
-
-
+  </tr>
 </table>
 
 
-
- 
-</tr>
-
-
-
-
+<table style="margin: 0 auto; width: 50%; border-collapse: collapse; align:center;"">
+  <tr>
+    <th style="border: 1px solid black; padding: 8px;">Ejercicios y dosieres &emsp; &emsp; &emsp;&emsp; &emsp;  &emsp;[SOM]</th>
+  </tr>
+  <tr>
+    <td style="border: 1px solid black; padding: 8px;">
+     <a href="">Primera evaluación [SOM] </a><br>
+     <a href="">Segunda evaluación [SOM] </a> </td>
+  </tr>
 
 </table>
-
-
-
 
 
 
