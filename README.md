@@ -51,7 +51,7 @@ Descargando el archivo y abriéndolo en su sistema.
     <th style="border: 1px solid black; padding: 8px;">Encabezado 2</th>
   </tr>
   <tr>
-    <td style="border: 1px solid black; padding: 8px;"><a href="[https://ejemplo.com](https://github.com/SantiagoGarciaSantiagoTECSRM/Materiales-de-estudio-grado-tecnico-SRM/blob/Apuntes-y-ejercicios-del-primer-a%C3%B1o-SRM/Apuntes_corregidos_SOM.pdf)">Primera evaluación **[SOM]**</a></td>
+    <td style="border: 1px solid black; padding: 8px;"><a href="(https://github.com/SantiagoGarciaSantiagoTECSRM/Materiales-de-estudio-grado-tecnico-SRM/blob/Apuntes-y-ejercicios-del-primer-a%C3%B1o-SRM/Apuntes_corregidos_SOM.pdf)">Primera evaluación **[SOM]**</a></td>
     <td style="border: 1px solid black; padding: 8px;">Dato 2</td>
   </tr>
 </table>
