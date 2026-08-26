@@ -117,5 +117,5 @@ Descargando el archivo y abriéndolo en su sistema.
 <a name="año_02">Indice año 02: </a>
 
 
-<a name="año_01_02">Libros de texto oficiales del grado SRM: </a>
+<a name="año_01_02">Libros de texto oficiales del grado SMR: </a>
 
