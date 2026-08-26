@@ -45,19 +45,45 @@ Descargando el archivo y abriéndolo en su sistema.
 
 <a name="año_01">Indice año 01: </a>
 
-<table style="margin: 0 auto; width: 50%; border-collapse: collapse;">
+<table style="margin: 0 auto; width: 50%; border-collapse: collapse; align:center;"">
   <tr>
     <th style="border: 1px solid black; padding: 8px;">Sistemas Operativos Mono Puesto [SOM]</th>
-    <th style="border: 1px solid black; padding: 8px;">Ejercicios [SOM]</th>
   </tr>
   <tr>
     <td style="border: 1px solid black; padding: 8px;">
      <a href="https://github.com/SantiagoGarciaSantiagoTECSRM/Materiales-de-estudio-grado-tecnico-SRM/blob/Apuntes-y-ejercicios-del-primer-a%C3%B1o-SRM/Apuntes_corregidos_SOM.pdf">Primera evaluación [SOM] </a><br>
      <a href="https://github.com/SantiagoGarciaSantiagoTECSRM/Materiales-de-estudio-grado-tecnico-SRM/blob/Apuntes-y-ejercicios-del-primer-a%C3%B1o-SRM/Apuntes_teoria_SOM_2EDVA.pdf">Segunda evaluación [SOM] </a> </td>
-    <td style="border: 1px solid black; padding: 8px;">
-     <a href="https://github.com/SantiagoGarciaSantiagoTECSRM/Materiales-de-estudio-grado-tecnico-SRM/blob/Apuntes-y-ejercicios-del-primer-a%C3%B1o-SRM/Ejercicio_SOM_%5B01%5D7zip.pdf">Ejercicio 01 [SOM] </a><br></td>
   </tr>
+
+<table style="margin: 0 auto; width: 50%; border-collapse: collapse; align:center;"">
+  <tr>
+    <th style="border: 1px solid black; padding: 8px;">Sistemas Operativos Mono Puesto [SOM]</th>
+  </tr>
+  <tr>
+    <td style="border: 1px solid black; padding: 8px;">
+     <a href="https://github.com/SantiagoGarciaSantiagoTECSRM/Materiales-de-estudio-grado-tecnico-SRM/blob/Apuntes-y-ejercicios-del-primer-a%C3%B1o-SRM/Apuntes_corregidos_SOM.pdf">Primera evaluación [SOM] </a><br>
+     <a href="https://github.com/SantiagoGarciaSantiagoTECSRM/Materiales-de-estudio-grado-tecnico-SRM/blob/Apuntes-y-ejercicios-del-primer-a%C3%B1o-SRM/Apuntes_teoria_SOM_2EDVA.pdf">Segunda evaluación [SOM] </a> </td>
+
+
 </table>
+
+
+
+ 
+</tr>
+
+
+
+
+
+</table>
+
+
+
+
+
+
+
 
 
 <a name="año_02">Indice año 02: </a>
