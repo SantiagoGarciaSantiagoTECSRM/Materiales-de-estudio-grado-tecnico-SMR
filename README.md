@@ -48,13 +48,16 @@ Descargando el archivo y abriéndolo en su sistema.
 
 <table style="margin: 0 auto; width: 50%; border-collapse: collapse; align:center;"">
   <tr>
-    <th style="border: 1px solid black; padding: 8px;">Sistemas Operativos Mono Puesto [SOM]</th>
+    <th style="border: 1px solid black; padding: 8px;">Sistemas Operativos Mono Puesto - Primera evaluacion - [SOM]</th>
   </tr>
   <tr>
     <td style="border: 1px solid black; padding: 8px;">
-     <a href="https://github.com/SantiagoGarciaSantiagoTECSRM/Materiales-de-estudio-grado-tecnico-SRM/blob/Apuntes-y-ejercicios-del-primer-a%C3%B1o-SRM/Apuntes_corregidos_SOM.pdf">Primera evaluación [SOM] </a><br>
-     <a href="https://github.com/SantiagoGarciaSantiagoTECSRM/Materiales-de-estudio-grado-tecnico-SRM/blob/Apuntes-y-ejercicios-del-primer-a%C3%B1o-SRM/Apuntes_teoria_SOM_2EDVA.pdf">Segunda evaluación [SOM] </a> </td>
+     <a href="https://github.com/SantiagoGarciaSantiagoTECSRM/Materiales-de-estudio-grado-tecnico-SRM/blob/Apuntes-y-ejercicios-del-primer-a%C3%B1o-SRM/Apuntes_corregidos_SOM.pdf">Apuntes primer examen de sistemas [SOM] </a><br>
+ 
   </tr>
+
+ <tr>    <a href="https://github.com/SantiagoGarciaSantiagoTECSRM/Materiales-de-estudio-grado-tecnico-SRM/blob/Apuntes-y-ejercicios-del-primer-a%C3%B1o-SRM/Apuntes_teoria_SOM_2EDVA.pdf">Segunda evaluación [SOM] </a> </td></tr>
+  
 </table>
 
 
