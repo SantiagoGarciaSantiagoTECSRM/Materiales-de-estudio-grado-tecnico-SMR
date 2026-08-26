@@ -52,7 +52,9 @@ Descargando el archivo y abriéndolo en su sistema.
   </tr>
   <tr>
     <td style="border: 1px solid black; padding: 8px;">
-     <a href="https://github.com/SantiagoGarciaSantiagoTECSRM/Materiales-de-estudio-grado-tecnico-SRM/blob/Apuntes-y-ejercicios-del-primer-a%C3%B1o-SRM/Apuntes_corregidos_SOM.pdf">Apuntes primer examen de sistemas [SOM] </a><br>
+     <a href="https://github.com/SantiagoGarciaSantiagoTECSRM/Materiales-de-estudio-grado-tecnico-SRM/blob/Apuntes-y-ejercicios-del-primer-a%C3%B1o-SRM/Apuntes_corregidos_SOM.pdf">Apuntes fundamentos de Sistemas [SOM] </a>   &emsp; &emsp; <a href="https://github.com/SantiagoGarciaSantiagoTECSRM/Materiales-de-estudio-grado-tecnico-SRM/blob/Apuntes-y-ejercicios-del-primer-a%C3%B1o-SRM/Linux%20SOM.pdf">Básicos Admin Linux Server [SOM] </a>
+ &emsp; &emsp; <a href="https://github.com/SantiagoGarciaSantiagoTECSRM/Materiales-de-estudio-grado-tecnico-SRM/blob/Apuntes-y-ejercicios-del-primer-a%C3%B1o-SRM/%5B01%5DAPUNTES_primer_a%C3%B1o_XL_-IDX.pdf">Apuntes finales primera evaluacion IDX [SOM] </a>
+     
  
   </tr>
 
