@@ -48,12 +48,14 @@ Descargando el archivo y abriéndolo en su sistema.
 <table style="margin: 0 auto; width: 50%; border-collapse: collapse;">
   <tr>
     <th style="border: 1px solid black; padding: 8px;">Sistemas Operativos Mono Puesto [SOM]</th>
-    <th style="border: 1px solid black; padding: 8px;">Encabezado 2</th>
+    <th style="border: 1px solid black; padding: 8px;">Ejercicios [SOM]</th>
   </tr>
   <tr>
-    <td style="border: 1px solid black; padding: 8px;"><a href="https://github.com/SantiagoGarciaSantiagoTECSRM/Materiales-de-estudio-grado-tecnico-SRM/blob/Apuntes-y-ejercicios-del-primer-a%C3%B1o-SRM/Apuntes_corregidos_SOM.pdf">Primera evaluación [SOM] </a><br>
+    <td style="border: 1px solid black; padding: 8px;">
+     <a href="https://github.com/SantiagoGarciaSantiagoTECSRM/Materiales-de-estudio-grado-tecnico-SRM/blob/Apuntes-y-ejercicios-del-primer-a%C3%B1o-SRM/Apuntes_corregidos_SOM.pdf">Primera evaluación [SOM] </a><br>
      <a href="https://github.com/SantiagoGarciaSantiagoTECSRM/Materiales-de-estudio-grado-tecnico-SRM/blob/Apuntes-y-ejercicios-del-primer-a%C3%B1o-SRM/Apuntes_teoria_SOM_2EDVA.pdf">Segunda evaluación [SOM] </a> </td>
-    <td style="border: 1px solid black; padding: 8px;">Dato 2</td>
+    <td style="border: 1px solid black; padding: 8px;">
+     <a href="https://github.com/SantiagoGarciaSantiagoTECSRM/Materiales-de-estudio-grado-tecnico-SRM/blob/Apuntes-y-ejercicios-del-primer-a%C3%B1o-SRM/Ejercicio_SOM_%5B01%5D7zip.pdf">Ejercicio 01 [SOM] </a><br></td>
   </tr>
 </table>
 
