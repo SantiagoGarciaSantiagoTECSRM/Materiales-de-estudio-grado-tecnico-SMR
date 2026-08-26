@@ -45,6 +45,18 @@ Descargando el archivo y abriéndolo en su sistema.
 
 <a name="año_01">Indice año 01: </a>
 
+<table style="margin: 0 auto; width: 50%; border-collapse: collapse;">
+  <tr>
+    <th style="border: 1px solid black; padding: 8px;">Encabezado 1</th>
+    <th style="border: 1px solid black; padding: 8px;">Encabezado 2</th>
+  </tr>
+  <tr>
+    <td style="border: 1px solid black; padding: 8px;">Dato 1</td>
+    <td style="border: 1px solid black; padding: 8px;">Dato 2</td>
+  </tr>
+</table>
+
+
 <a name="año_02">Indice año 02: </a>
 
 
