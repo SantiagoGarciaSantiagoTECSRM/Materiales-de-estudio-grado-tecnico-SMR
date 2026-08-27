@@ -48,12 +48,12 @@ Descargando el archivo y abriéndolo en su sistema.
 
 <table style="margin: 0 auto; width: 50%; border-collapse: collapse; align:center;"">
   <tr>
-    <th style="border: 1px solid black; padding: 8px;">Sistemas Operativos Mono Puesto - Primera evaluacion - [SOM]</th>
+    <th style="border: 1px solid black; padding: 8px;">Sistemas Operativos Mono Puesto - Primera evaluación - [SOM]</th>
   </tr>
   <tr>
     <td style="border: 1px solid black; padding: 8px;">
      <a href="https://github.com/SantiagoGarciaSantiagoTECSRM/Materiales-de-estudio-grado-tecnico-SRM/blob/Apuntes-y-ejercicios-del-primer-a%C3%B1o-SRM/Apuntes_corregidos_SOM.pdf">Apuntes fundamentos de Sistemas [SOM] </a>   &emsp; &emsp; <a href="https://github.com/SantiagoGarciaSantiagoTECSRM/Materiales-de-estudio-grado-tecnico-SRM/blob/Apuntes-y-ejercicios-del-primer-a%C3%B1o-SRM/Linux%20SOM.pdf">Básicos Admin Linux Server [SOM] </a>
- &emsp; &emsp; <a href="https://github.com/SantiagoGarciaSantiagoTECSRM/Materiales-de-estudio-grado-tecnico-SRM/blob/Apuntes-y-ejercicios-del-primer-a%C3%B1o-SRM/%5B01%5DAPUNTES_primer_a%C3%B1o_XL_-IDX.pdf">Apuntes finales primera evaluacion IDX [SOM] </a>
+ &emsp; &emsp; <a href="https://github.com/SantiagoGarciaSantiagoTECSRM/Materiales-de-estudio-grado-tecnico-SRM/blob/Apuntes-y-ejercicios-del-primer-a%C3%B1o-SRM/%5B01%5DAPUNTES_primer_a%C3%B1o_XL_-IDX.pdf">Apuntes finales primera evaluación IDX [SOM] </a>
      
  
   </tr>
@@ -63,7 +63,7 @@ Descargando el archivo y abriéndolo en su sistema.
 
 <table style="margin: 0 auto; width: 50%; border-collapse: collapse; align:center;"">
   <tr>
-    <th style="border: 1px solid black; padding: 8px;">Ejercicios y dosieres </th>
+    <th style="border: 1px solid black; padding: 8px;">Ejercicios y dosieres [SOM] 01 </th>
   </tr>
   <tr>
     <td style="border: 1px solid black; padding: 8px;">
@@ -72,16 +72,17 @@ Descargando el archivo y abriéndolo en su sistema.
 
 </table>
 
-
+<br>
+<br>
 
 <table style="margin: 0 auto; width: 50%; border-collapse: collapse; align:center;"">
   <tr>
-    <th style="border: 1px solid black; padding: 8px;">Sistemas Operativos Mono Puesto - Primera evaluacion - [SOM]</th>
+    <th style="border: 1px solid black; padding: 8px;">Sistemas Operativos Mono Puesto - Segunda evaluación - [SOM]</th>
   </tr>
   <tr>
     <td style="border: 1px solid black; padding: 8px;">
-     <a href="https://github.com/SantiagoGarciaSantiagoTECSRM/Materiales-de-estudio-grado-tecnico-SRM/blob/Apuntes-y-ejercicios-del-primer-a%C3%B1o-SRM/Apuntes_corregidos_SOM.pdf">Apuntes fundamentos de Sistemas [SOM] </a>   &emsp; &emsp; <a href="https://github.com/SantiagoGarciaSantiagoTECSRM/Materiales-de-estudio-grado-tecnico-SRM/blob/Apuntes-y-ejercicios-del-primer-a%C3%B1o-SRM/Linux%20SOM.pdf">Básicos Admin Linux Server [SOM] </a>
- &emsp; &emsp; <a href="https://github.com/SantiagoGarciaSantiagoTECSRM/Materiales-de-estudio-grado-tecnico-SRM/blob/Apuntes-y-ejercicios-del-primer-a%C3%B1o-SRM/%5B01%5DAPUNTES_primer_a%C3%B1o_XL_-IDX.pdf">Apuntes finales primera evaluacion IDX [SOM] </a>
+     <a href="">Apuntes fundamentos de Sistemas [SOM] </a>   &emsp; &emsp; <a href="">Básicos Admin Linux Server [SOM] </a>
+ &emsp; &emsp; <a href="">Apuntes finales primera evaluacion IDX [SOM] </a>
      
  
   </tr>
@@ -91,11 +92,11 @@ Descargando el archivo y abriéndolo en su sistema.
 
 <table style="margin: 0 auto; width: 50%; border-collapse: collapse; align:center;"">
   <tr>
-    <th style="border: 1px solid black; padding: 8px;">Ejercicios y dosieres </th>
+    <th style="border: 1px solid black; padding: 8px;">Ejercicios y dosieres [SOM] 02 </th>
   </tr>
   <tr>
     <td style="border: 1px solid black; padding: 8px;">
-     <a href="https://github.com/SantiagoGarciaSantiagoTECSRM/Materiales-de-estudio-grado-tecnico-SRM/blob/Apuntes-y-ejercicios-del-primer-a%C3%B1o-SRM/Ejercicio_SOM_%5B01%5D7zip.pdf">01 Ejercicio 7zip  </a>  &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;  <a href="https://github.com/SantiagoGarciaSantiagoTECSRM/Materiales-de-estudio-grado-tecnico-SRM/blob/Apuntes-y-ejercicios-del-primer-a%C3%B1o-SRM/Ejercicio_SOM_%5B01%5Dadm_usuarios.pdf"> 02 Ejercicio Administracion de usuarios   </a>  &emsp; &emsp; &emsp;  <a href="https://github.com/SantiagoGarciaSantiagoTECSRM/Materiales-de-estudio-grado-tecnico-SRM/blob/Apuntes-y-ejercicios-del-primer-a%C3%B1o-SRM/Ejercicio_SOM_%5B01%5Dcarpetas_especiales.pdf">03 Ejercicio Carpetas y contenedores especiales  </a>  <br>     <a href="https://github.com/SantiagoGarciaSantiagoTECSRM/Materiales-de-estudio-grado-tecnico-SRM/blob/Apuntes-y-ejercicios-del-primer-a%C3%B1o-SRM/Ejercicio_SOM_%5B01%5Dherramientas_soporte.pdf">04 Herramientas de soporte  </a>  &emsp; &thinsp;  <a href="https://github.com/SantiagoGarciaSantiagoTECSRM/Materiales-de-estudio-grado-tecnico-SRM/blob/Apuntes-y-ejercicios-del-primer-a%C3%B1o-SRM/Ejercicio_SOM_%5B01%5Dpuntos_restauracion.pdf"> 05 Puntos de restauracion   </a>   </td>
+     <a href="">01 Ejercicio 7zip  </a>  &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;  <a href=""> 02 Ejercicio Administracion de usuarios   </a>  &emsp; &emsp; &emsp;  <a href="">03 Ejercicio Carpetas y contenedores especiales  </a>  <br>     <a href="">04 Herramientas de soporte  </a>  &emsp; &thinsp;  <a href=""> 05 Puntos de restauracion   </a>   </td>
   </tr>
 
 </table>
