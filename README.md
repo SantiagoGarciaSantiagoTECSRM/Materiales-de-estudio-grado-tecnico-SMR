@@ -99,8 +99,8 @@ Descargando el archivo y abriéndolo en su sistema.
   </tr>
   <tr>
     <td style="border: 1px solid black; padding: 8px;">
-     <a href="">Apuntes fundamentos de Sistemas 02 [SOM] </a>   &emsp; &emsp; <a href="">Apuntes linux IDX [SOM] </a>
- &emsp; &emsp; <a href="f">Apuntes finales SOM IDX [SOM] </a>
+     <a href="https://github.com/SantiagoGarciaSantiagoTECSRM/Materiales-de-estudio-grado-tecnico-SMR/blob/Apuntes-y-ejercicios-del-primer-a%C3%B1o-SRM/%5B01%5Dapuntes_finales_SOM%203edva_-%20IDX.pdf">Apuntes fundamentos de Sistemas 03 [SOM] </a>   &emsp; &emsp; <a href="https://github.com/SantiagoGarciaSantiagoTECSRM/Materiales-de-estudio-grado-tecnico-SMR/blob/Apuntes-y-ejercicios-del-primer-a%C3%B1o-SRM/%5BEX%5DApuntes_linux_SOM_IDX.pdf">Apuntes finales linux IDX [SOM] </a>
+ &emsp; &emsp; <a href="https://github.com/SantiagoGarciaSantiagoTECSRM/Materiales-de-estudio-grado-tecnico-SMR/blob/Apuntes-y-ejercicios-del-primer-a%C3%B1o-SRM/%5BEX%5Dapuntes_finales_SOM%20-%20IDX.pdf">Apuntes finales SOM IDX [SOM] </a>
      
  
   </tr>
