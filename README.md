@@ -77,7 +77,7 @@ Descargando el archivo y abriéndolo en su sistema.
 
 <table style="margin: 0 auto; width: 50%; border-collapse: collapse; align:center;"">
   <tr>
-    <th style="border: 1px solid black; padding: 8px;"> &emsp; &emsp; &emsp; &emsp;  &emsp; &emsp;  &emsp; &emsp; Sistemas Operativos Mono Puesto - Segunda evaluación - [SOM]  &emsp; &emsp; &emsp; &emsp;  &emsp; &emsp; &emsp; &emsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp; &emsp; &emsp; &thinsp;&thinsp;&thinsp </th>
+    <th style="border: 1px solid black; padding: 8px;"> &emsp; &emsp; &emsp; &emsp;  &emsp; &emsp;  &emsp; &emsp; Sistemas Operativos Mono Puesto - Segunda evaluación - [SOM]  &emsp; &emsp; &emsp; &emsp;  &emsp; &emsp; &emsp; &emsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp; &emsp; &emsp; &thinsp;&thinsp;&thinsp;</th>
   </tr>
   <tr>
     <td style="border: 1px solid black; padding: 8px;">
@@ -95,7 +95,7 @@ Descargando el archivo y abriéndolo en su sistema.
 
 <table style="margin: 0 auto; width: 50%; border-collapse: collapse; align:center;"">
   <tr>
-    <th style="border: 1px solid black; padding: 8px;">Sistemas Operativos Mono Puesto - Tercera evaluación - [SOM]</th>
+    <th style="border: 1px solid black; padding: 8px;">Sistemas Operativos Mono Puesto - Tercera evaluación - [SOM]  &emsp; &emsp;  &emsp; &emsp;  &emsp; &emsp;</th>
   </tr>
   <tr>
     <td style="border: 1px solid black; padding: 8px;">
@@ -106,6 +106,27 @@ Descargando el archivo y abriéndolo en su sistema.
   </tr>
   
 </table>
+
+<table style="margin: 0 auto; width: 50%; border-collapse: collapse; align:center;"">
+  <tr>
+    <th style="border: 1px solid black; padding: 8px;">&emsp;&emsp; &emsp;&emsp; &emsp; Redes locales - [XL] &emsp; &emsp;&emsp; &emsp;&emsp; &emsp;&thinsp;&thinsp;&thinsp;&thinsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;</th>
+  </tr>
+  <tr>
+    <td style="border: 1px solid black; padding: 8px;">&emsp; &emsp;&emsp; &emsp;
+    &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; <a href="https://github.com/SantiagoGarciaSantiagoTECSRM/Materiales-de-estudio-grado-tecnico-SMR/blob/Apuntes-y-ejercicios-del-primer-a%C3%B1o-SRM/%5B01%5DAPUNTES_primer_a%C3%B1o_XL_-IDX.pdf">Apuntes (Unificados) Redes IDX [XL] </a>   &emsp; &emsp; <a href="https://github.com/SantiagoGarciaSantiagoTECSRM/Materiales-de-estudio-grado-tecnico-SMR/blob/Apuntes-y-ejercicios-del-primer-a%C3%B1o-SRM/%5BEX%5Ddosier_def_redes_-IDX.pdf">Dosier de Redes EX [XL]  </a>
+ &emsp; &emsp; <a href="https://github.com/SantiagoGarciaSantiagoTECSRM/Materiales-de-estudio-grado-tecnico-SMR/blob/Apuntes-y-ejercicios-del-primer-a%C3%B1o-SRM/anexo_conversion_SI_TI.pdf">Anexo conversiones IT [SOM/XL] </a>
+     
+ 
+  </tr>
+  
+</table>
+
+
+
+
+
+
+
 
 
 <a name="año_02">Indice año 02: </a>
