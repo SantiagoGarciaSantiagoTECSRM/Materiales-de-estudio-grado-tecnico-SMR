@@ -77,28 +77,18 @@ Descargando el archivo y abriéndolo en su sistema.
 
 <table style="margin: 0 auto; width: 50%; border-collapse: collapse; align:center;"">
   <tr>
-    <th style="border: 1px solid black; padding: 8px;">Sistemas Operativos Mono Puesto - Segunda evaluación - [SOM]</th>
+    <th style="border: 1px solid black; padding: 8px;"> &emsp; &emsp; &emsp; &emsp;  &emsp; &emsp;  &emsp; &emsp; Sistemas Operativos Mono Puesto - Segunda evaluación - [SOM]  &emsp; &emsp; &emsp; &emsp;  &emsp; &emsp; &emsp; &emsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp; </th>
   </tr>
   <tr>
     <td style="border: 1px solid black; padding: 8px;">
-     <a href="https://github.com/SantiagoGarciaSantiagoTECSRM/Materiales-de-estudio-grado-tecnico-SMR/blob/Apuntes-y-ejercicios-del-primer-a%C3%B1o-SRM/%5B01%5DApuntes_SOM_edva_02_%20-IDX.pdf">Apuntes fundamentos de Sistemas 02 [SOM] </a>   &emsp; &emsp; 
+     <a href="https://github.com/SantiagoGarciaSantiagoTECSRM/Materiales-de-estudio-grado-tecnico-SMR/blob/Apuntes-y-ejercicios-del-primer-a%C3%B1o-SRM/%5B01%5DApuntes_SOM_edva_02_%20-IDX.pdf">Apuntes fundamentos de Sistemas 02 [SOM] </a>   &emsp; &emsp;  &emsp; &emsp;
      
  
   </tr>
   
 </table>
 
-
-<table style="margin: 0 auto; width: 50%; border-collapse: collapse; align:center;"">
-  <tr>
-    <th style="border: 1px solid black; padding: 8px;">Ejercicios y dosieres [SOM] 02 </th>
-  </tr>
-  <tr>
-    <td style="border: 1px solid black; padding: 8px;">
-     <a href="">01 Ejercicio 7zip  </a>  &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;  <a href=""> 02 Ejercicio Administracion de usuarios   </a>  &emsp; &emsp; &emsp;  <a href="">03 Ejercicio Carpetas y contenedores especiales  </a>  <br>     <a href="">04 Herramientas de soporte  </a>  &emsp; &thinsp;  <a href=""> 05 Puntos de restauracion   </a>   </td>
-  </tr>
-
-</table>
+ 
 <br>
 <br>
 
@@ -116,29 +106,6 @@ Descargando el archivo y abriéndolo en su sistema.
   </tr>
   
 </table>
-
-
-<table style="margin: 0 auto; width: 50%; border-collapse: collapse; align:center;"">
-  <tr>
-    <th style="border: 1px solid black; padding: 8px;">Ejercicios y dosieres [SOM] 02 </th>
-  </tr>
-  <tr>
-    <td style="border: 1px solid black; padding: 8px;">
-     <a href="">01 Ejercicio 7zip  </a>  &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;  <a href=""> 02 Ejercicio Administracion de usuarios   </a>  &emsp; &emsp; &emsp;  <a href="">03 Ejercicio Carpetas y contenedores especiales  </a>  <br>     <a href="">04 Herramientas de soporte  </a>  &emsp; &thinsp;  <a href=""> 05 Puntos de restauracion   </a>   </td>
-  </tr>
-
-</table>
-
-
-
-
-
-
-
-
-
-
-
 
 
 <a name="año_02">Indice año 02: </a>
