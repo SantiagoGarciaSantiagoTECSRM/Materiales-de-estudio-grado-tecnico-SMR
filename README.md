@@ -77,7 +77,7 @@ Descargando el archivo y abriéndolo en su sistema.
 
 <table style="margin: 0 auto; width: 50%; border-collapse: collapse; align:center;"">
   <tr>
-    <th style="border: 1px solid black; padding: 8px;"> &emsp; &emsp; &emsp; &emsp;  &emsp; &emsp;  &emsp; &emsp; Sistemas Operativos Mono Puesto - Segunda evaluación - [SOM]  &emsp; &emsp; &emsp; &emsp;  &emsp; &emsp; &emsp; &emsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp; </th>
+    <th style="border: 1px solid black; padding: 8px;"> &emsp; &emsp; &emsp; &emsp;  &emsp; &emsp;  &emsp; &emsp; Sistemas Operativos Mono Puesto - Segunda evaluación - [SOM]  &emsp; &emsp; &emsp; &emsp;  &emsp; &emsp; &emsp; &emsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp; &emsp; &emsp; &thinsp;&thinsp;&thinsp </th>
   </tr>
   <tr>
     <td style="border: 1px solid black; padding: 8px;">
