@@ -1,6 +1,6 @@
 >[!WARNING]
 ># En construcción, esto es más laborioso de lo que parece....   
-># ultima revision: 07-09-26
+># ultima revision: 08-09-26
 
 
 # Materiales de estudio:<br>**Grado Técnico en Microsistemas y Redes [SMR]**
