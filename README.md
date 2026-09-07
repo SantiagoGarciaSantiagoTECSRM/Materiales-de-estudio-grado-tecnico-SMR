@@ -164,7 +164,7 @@ Descargando el archivo y abriéndolo en su sistema.
   </tr>
   <tr>
     <td style="border: 1px solid black; padding: 8px;">
-     <a href="">PLANTILLA_EXAMENES_01.txt </a>  &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;  <a href=""> ejercicio_java_script_01.7z  </a>  &emsp; &emsp; &emsp;  <a href="">ejercicio_java_script_02.7z </a>  <br>     <a href="">ejercicio_java_script_03.7z  </a>  &emsp; &thinsp;  <a href=""> ejercicio_java_script_JSON_AJAX.7z   </a> &emsp; &thinsp; <a href=""> ejercicio_java_script_JSON_AJAX_02.7z  </a>  </td>
+     <a href="">PLANTILLA_EXAMENES_01.txt </a>  &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;  <a href=""> ejercicio_java_script_01.7z  </a>  &emsp; &emsp; &emsp;  <a href="">ejercicio_java_script_02.7z </a>  <br>     <a href="">ejercicio_java_script_03.7z  </a>  &emsp; &thinsp; &emsp; &emsp;&emsp; &emsp; &emsp; &emsp; <a href=""> ejercicio_java_script_JSON_AJAX.7z   </a> &emsp; &thinsp; &emsp; &emsp;   <a href=""> ejercicio_java_script_JSON_AJAX_02.7z  </a>  </td>
   </tr>
 
 </table>
