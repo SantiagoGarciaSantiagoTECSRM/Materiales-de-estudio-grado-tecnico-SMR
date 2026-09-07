@@ -147,11 +147,11 @@ Descargando el archivo y abriéndolo en su sistema.
 
 <table style="margin: 0 auto; width: 50%; border-collapse: collapse; align:center;"">
   <tr>
-    <th style="border: 1px solid black; padding: 8px;">Desarrollo Aplicaciones WEB [AW]</th>
+    <th style="border: 1px solid black; padding: 8px;"> &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;  &emsp; &emsp; &emsp; Desarrollo Aplicaciones WEB [AW] &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;  </th> 
   </tr>
   <tr>
     <td style="border: 1px solid black; padding: 8px;">
-     <a href="https://github.com/SantiagoGarciaSantiagoTECSRM/Materiales-de-estudio-grado-tecnico-SMR/blob/Apuntes-del-segundo-a%C3%B1o-de-SRM/%5B02%5Dapuntes_CURSO_AW_IDX.pdf">[02]Apuntes_CURSO_AW_IDX.pdf </a>   
+     <a href="https://github.com/SantiagoGarciaSantiagoTECSRM/Materiales-de-estudio-grado-tecnico-SMR/blob/Apuntes-del-segundo-a%C3%B1o-de-SRM/%5B02%5Dapuntes_CURSO_AW_IDX.pdf">[02]Apuntes_CURSO_AW_IDX.pdf </a>  
  
   </tr>
   
