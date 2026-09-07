@@ -280,11 +280,29 @@ Descargando el archivo y abriéndolo en su sistema.
 
   </tr>
 
+</table>
 
 
-  
+<table style="margin: 0 auto; width: 50%; border-collapse: collapse; align:center;"">
+  <tr>
+    <th style="border: 1px solid black; padding: 8px;">Laboratorio Windows Active Directory [SOR]</th>
+  </tr>
+  <tr>
+    <td style="border: 1px solid black; padding: 8px;">
+    <a href="">02_02_Conf_basica_ubuntu_server.pdf </a>  &emsp; &emsp; &emsp; &emsp; &emsp; <a href=""> Operaciones administrativas linux server.pdf </a>   &emsp; &emsp; &thinsp; <a href=""> PHP_Open_Ldap.pdf </a>    <a href="">Gestión de usuarios y grupos - Comandos más usuales.pdf  </a>  &emsp;   <a href=""> Practicas_administrativas_01 linux.pdf  </a>    <br> <a href=""> Practicas_administrativas_01 linux ubuntu.pdf  </a> &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<a href=""> Practicas_administrativas_01 linux ubuntu.pdf (soluciones)  </a>  </td>
+
+  </tr>
+
+  <tr>
+    <td style="border: 1px solid black; padding: 8px;">
+    <a href="">Clonación e interface grafica.pdf </a>  &emsp; &emsp; &emsp; &emsp; &emsp; <a href=""> Gestión de dominios en linux server.pdf </a>   &emsp; &emsp; &thinsp; <a href=""> Perfiles moviles en linux server.pdf</a>      </td>
+
+  </tr>
 
 </table>
+
+
+
 
 
 
