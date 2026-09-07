@@ -174,7 +174,7 @@ Descargando el archivo y abriéndolo en su sistema.
 
   <tr>
     <td style="border: 1px solid black; padding: 8px;">
-     <a href="">Maquetas_html_28_01_23.7z </a>  &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;&emsp;<a href=""> Pre_examen__001_28_01_23.7z  </a> &emsp; &emsp; &emsp; &emsp;  &emsp; &emsp; &thinsp; &emsp; &emsp; </td>
+     <a href="">Maquetas_html_28_01_23.7z </a>  &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;<a href=""> Pre_examen__001_28_01_23.7z  </a> &emsp; &emsp; &emsp; &emsp;  &emsp; &emsp; &thinsp; &emsp; &emsp; </td>
   </tr>
   
 
