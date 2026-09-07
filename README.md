@@ -132,5 +132,49 @@ Descargando el archivo y abriéndolo en su sistema.
 <a name="año_02">Indice año 02: </a>
 
 
+
+<table style="margin: 0 auto; width: 50%; border-collapse: collapse; align:center;"">
+  <tr>
+    <th style="border: 1px solid black; padding: 8px;">Seguridad informatica [SI] [Pentesting]</th>
+  </tr>
+  <tr>
+    <td style="border: 1px solid black; padding: 8px;">
+     <a href="https://github.com/SantiagoGarciaSantiagoTECSRM/Materiales-de-estudio-grado-tecnico-SMR/blob/Apuntes-del-segundo-a%C3%B1o-de-SRM/%5B02%5DSI_apuntes_a%C3%B1o_02%20-IDX.pdf">[02]SI_apuntes_año_02 -IDX.pdf </a>   
+ 
+  </tr>
+  
+</table>
+
+<table style="margin: 0 auto; width: 50%; border-collapse: collapse; align:center;"">
+  <tr>
+    <th style="border: 1px solid black; padding: 8px;">Desarrollo Aplicaciones WEB [AW]</th>
+  </tr>
+  <tr>
+    <td style="border: 1px solid black; padding: 8px;">
+     <a href="https://github.com/SantiagoGarciaSantiagoTECSRM/Materiales-de-estudio-grado-tecnico-SMR/blob/Apuntes-del-segundo-a%C3%B1o-de-SRM/%5B02%5Dapuntes_CURSO_AW_IDX.pdf">[02]Apuntes_CURSO_AW_IDX.pdf </a>   
+ 
+  </tr>
+  
+</table>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <a name="año_01_02">Libros de texto oficiales del grado SMR: </a>
 
