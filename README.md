@@ -7,7 +7,7 @@
 
 Este repositorio contiene todos los apuntes, ejercicios y materiales que desarrolle y utilice durante mi periodo de estudiante del **[SMR]**.
 
-**[Indice Año_01](#año_01)** **|** **[Indice Año_02](#año_02)** **|** **[Libros de texto](#año_01_02)**
+**[Indice Año_0ejercicios_base_06.7z1](#año_01)** **|** **[Indice Año_02](#año_02)** **|** **[Libros de texto](#año_01_02)**
 
 
 
@@ -169,7 +169,7 @@ Descargando el archivo y abriéndolo en su sistema.
 
   <tr>
     <td style="border: 1px solid black; padding: 8px;">
-     <a href="">ejercicios_base_01.7z </a>  &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; <a href=""> ejercicios_base_02.7z  </a> &emsp; &emsp; &emsp; &emsp;  &emsp; &emsp; &thinsp; <a href="">ejercicios_base_03.7z </a>  <br>     <a href="">ejercicios_base_04.7z  </a>  &emsp; &thinsp; &emsp; &emsp;&emsp; &emsp; &emsp; &emsp; <a href="">ejercicios_base_05.7z   </a> &emsp; &thinsp; &emsp; &emsp;   <a href=""> ejercicios_base_06.7z  </a>  </td>
+     <a href="">ejercicios_base_01.7z </a>  &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;&emsp; &emsp; &emsp;<a href=""> ejercicios_base_02.7z  </a> &emsp; &emsp; &emsp; &emsp;  &emsp; &emsp; &thinsp; <a href="">ejercicios_base_03.7z </a>  <br>     <a href="">ejercicios_base_04.7z  </a>  &emsp; &thinsp; &emsp; &emsp;&emsp; &emsp; &emsp; &emsp; <a href="">ejercicios_base_05.7z   </a> &emsp; &thinsp; &emsp; &emsp;   <a href=""> ejercicios_base_06.7z  </a>  </td>
   </tr>
 
 
