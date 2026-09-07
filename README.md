@@ -175,7 +175,7 @@ Descargando el archivo y abriéndolo en su sistema.
   </tr>
   <tr>
     <td style="border: 1px solid black; padding: 8px;">
-     <a href="">[02]Practica_HTTP_proxy.pdf </a>  &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; <a href=""> [02]SX_Practica_server_DNS  </a> &emsp; &emsp; &emsp; &emsp;  &emsp; &emsp; &thinsp; <a href="">[02]SX_Practica_server_FTP </a>  <br>     <a href="">[02]SX_Practica_Configuracion_DHCP  </a>  &emsp; &thinsp; &emsp; &emsp;&emsp; &emsp; &emsp; &emsp; <a href=""> [02][DEF]Practica_SMTP.pdf   </a> &emsp; &thinsp; &emsp; &emsp;    </td>
+    <a href="">[02]Practica_HTTP_proxy.pdf </a>  &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; <a href=""> [02]SX_Practica_server_DNS  </a> &emsp;&emsp; &emsp; &emsp; &emsp;  &emsp; &emsp; &thinsp; <a href="">[02]SX_Practica_server_FTP </a>  <br>     <a href="">[02]SX_Practica_Configuracion_DHCP  </a>  &emsp; &thinsp; &emsp; &emsp;&emsp; &emsp; &thinsp;  <a href=""> [02][DEF]Practica_SMTP.pdf   </a> &emsp; &thinsp; &emsp; &emsp;   &emsp;  </td> 
   </tr>
 
 </table>
