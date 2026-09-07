@@ -159,6 +159,17 @@ Descargando el archivo y abriéndolo en su sistema.
 
 
 
+<table style="margin: 0 auto; width: 50%; border-collapse: collapse; align:center;"">
+  <tr>
+    <th style="border: 1px solid black; padding: 8px;">Sistemas operativos en red [SOM]</th>
+  </tr>
+  <tr>
+    <td style="border: 1px solid black; padding: 8px;">
+     <a href="https://github.com/SantiagoGarciaSantiagoTECSRM/Materiales-de-estudio-grado-tecnico-SMR/blob/Apuntes-del-segundo-a%C3%B1o-de-SRM/%5BEX%5DApuntes_linux_SOM_IDX.pdf">[EX]Apuntes_linux_SOM_IDX.pdf </a>   
+ 
+  </tr>
+  
+</table>
 
 
 
