@@ -135,7 +135,7 @@ Descargando el archivo y abriéndolo en su sistema.
 
 <table style="margin: 0 auto; width: 50%; border-collapse: collapse; align:center;"">
   <tr>
-    <th style="border: 1px solid black; padding: 8px;">Seguridad informatica [SI] [Pentesting]</th>
+    <th style="border: 1px solid black; padding: 8px;">&emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;  &emsp; &emsp; &emsp;Seguridad informatica [SI] [Pentesting] &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;  </th>
   </tr>
   <tr>
     <td style="border: 1px solid black; padding: 8px;">
