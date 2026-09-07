@@ -172,7 +172,10 @@ Descargando el archivo y abriéndolo en su sistema.
      <a href="">ejercicios_base_01.7z </a>  &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;&emsp; &emsp; &emsp;<a href=""> ejercicios_base_02.7z  </a> &emsp; &emsp; &emsp; &emsp;  &emsp; &emsp; &thinsp; &emsp; &emsp;<a href="">ejercicios_base_03.7z </a>  <br>     <a href="">ejercicios_base_04.7z  </a>  &emsp; &thinsp; &emsp; &emsp;&emsp; &emsp; &emsp; &emsp;&emsp; &thinsp; &emsp;<a href="">ejercicios_base_05.7z   </a> &emsp; &thinsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &thinsp;&emsp;<a href=""> ejercicios_base_06.7z  </a>  </td>
   </tr>
 
-
+  <tr>
+    <td style="border: 1px solid black; padding: 8px;">
+     <a href="">ejercicios_base_01.7z </a>  &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;&emsp; &emsp; &emsp;<a href=""> ejercicios_base_02.7z  </a> &emsp; &emsp; &emsp; &emsp;  &emsp; &emsp; &thinsp; &emsp; &emsp; </td>
+  </tr>
   
 
 </table>
