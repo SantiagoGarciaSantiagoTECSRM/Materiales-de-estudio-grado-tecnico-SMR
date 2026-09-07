@@ -152,17 +152,17 @@ Descargando el archivo y abriéndolo en su sistema.
   </tr>
   <tr>
     <td style="border: 1px solid black; padding: 8px;">
-     <a href="">Apunts 5.1 - Protecció sistema d'arrencada.pdf (GRUB) </a>  &emsp; &emsp;  <a href=""> Apunts 5.2 - Directives de seguretat.pdf  </a>  &emsp;    <br>     <a href="">Apunts 7.1 - Instal·lació i configuració de RSYSLOG.pdf </a>  &thinsp; &thinsp; &emsp; <a href="">  Apunts 7.2 - Configuració UFW.pdf  </a> &emsp; &thinsp; &emsp; &emsp;  <br> <a href=""> Apunts 7.3 - Instal·lació i configuració d'Squid.pdf  </a>  </td>
+     <a href="">Apunts 5.1 - Protecció sistema d'arrencada.pdf (GRUB) </a>  &emsp;   <a href=""> Apunts 5.2 - Directives de seguretat.pdf  </a>  &emsp;    <br>     <a href="">Apunts 7.1 - Instal·lació i configuració de RSYSLOG.pdf </a>  &thinsp; &thinsp; &thinsp;<a href="">  Apunts 7.2 - Configuració UFW.pdf  </a> &emsp; &thinsp; &emsp; &emsp;  <br> <a href=""> Apunts 7.3 - Instal·lació i configuració d'Squid.pdf  </a>  </td>
   </tr>
 
   <tr>
     <td style="border: 1px solid black; padding: 8px;">
-     <a href="">Auditar los intentos de inicio de sesión en Windows 10.pdf </a>  &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;&emsp; &emsp; &emsp;<a href=""> Manual de GPG  </a> &emsp; &emsp; &emsp; &emsp;  &emsp; &emsp; &thinsp; &emsp; &emsp;<a href="">Laboratorio [Hamachi] </a>  <br>     <a href="">Laboratorio [instalación y configuración de RSYSLOG] </a>  &emsp; &thinsp; &emsp; &emsp;&emsp; &emsp; &emsp; &emsp;&emsp; &thinsp; &emsp;<a href="">Introducción a la criptografía   </a> &emsp; &thinsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &thinsp;&emsp;<a href=""> Cifrado asimétrico GPG </a>  </td>
+     <a href="">Auditar los intentos de inicio de sesión en Windows 10.pdf </a>  &emsp; &emsp; &emsp;<a href=""> Manual de GPG  </a> &emsp; &emsp; &emsp; &emsp;  &emsp;  &thinsp; <a href="">Laboratorio [Hamachi] </a>  <br>     <a href="">Laboratorio [instalación y configuración de RSYSLOG] </a>  &emsp; &thinsp; &emsp; &emsp;  &thinsp; &emsp;<a href="">Introducción a la criptografía   </a>  &thinsp;  &thinsp;<a href=""> Cifrado asimétrico GPG </a> &emsp; &emsp;&thinsp; &thinsp;   </td>
   </tr>
 
   <tr>
     <td style="border: 1px solid black; padding: 8px;">
-     <a href="">Seguridad activa </a>  &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;<a href=""> Visor de eventos W10  </a> &emsp; &emsp; &emsp; &emsp;  &emsp; &emsp; &thinsp; &emsp; &emsp; </td>
+     <a href="">Seguridad activa </a>  &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;&emsp; &emsp; &emsp;&emsp; &emsp; &emsp;&emsp;  &emsp;&emsp; &emsp;&emsp; &emsp; &emsp;<a href="">   Visor de eventos W10  </a> &emsp; &emsp; &emsp; &emsp;  &emsp; &emsp; &thinsp; &emsp; &emsp; </td>
   </tr>
   
 
