@@ -194,7 +194,7 @@ Descargando el archivo y abriéndolo en su sistema.
 
 <table style="margin: 0 auto; width: 50%; border-collapse: collapse; align:center;"">
   <tr>
-    <th style="border: 1px solid black; padding: 8px;">Sistemas operativos en red [SOM]</th>
+    <th style="border: 1px solid black; padding: 8px;">&emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;  &emsp; &emsp; &emsp;Sistemas operativos en red [SOM] &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &thinsp;</th>
   </tr>
   <tr>
     <td style="border: 1px solid black; padding: 8px;">
