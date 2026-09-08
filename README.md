@@ -276,7 +276,7 @@ Descargando el archivo y abriéndolo en su sistema.
 
   <tr>
     <td style="border: 1px solid black; padding: 8px;">
-    <a href="">Clonación e interface grafica.pdf </a>  &emsp; &emsp; &emsp; &emsp; &emsp; <a href=""> Gestión de dominios en linux server.pdf </a>   &emsp; &emsp; &thinsp; <a href=""> Perfiles moviles en linux server.pdf</a>      </td>
+    <a href="https://github.com/SantiagoGarciaSantiagoTECSRM/Materiales-de-estudio-grado-tecnico-SMR/blob/Laboratorio-segundo-a%C3%B1os-SRM-LDAP-SOX/Practicas_a%C3%B1oUD6.%20Activitat%204%20-%20CLONACI%C3%93%20DE%20UBUNTU%20SERVER%20I%20FER%20INSTAL%C2%B7LACI%C3%93%20INTERFICI%20GR%C3%80FICA.pdf">Clonación e interface grafica.pdf </a>  &emsp; &emsp; &emsp; &emsp; &emsp; <a href="https://github.com/SantiagoGarciaSantiagoTECSRM/Materiales-de-estudio-grado-tecnico-SMR/blob/Laboratorio-segundo-a%C3%B1os-SRM-LDAP-SOX/Practicas_a%C3%B1o%5Bv0001%5DUD7-Activitats%201.%20DOMINIS%20AMB%20LINUX.pdf"> Gestión de dominios en linux server.pdf </a>   &emsp; &emsp; &thinsp; <a href="https://github.com/SantiagoGarciaSantiagoTECSRM/Materiales-de-estudio-grado-tecnico-SMR/blob/Laboratorio-segundo-a%C3%B1os-SRM-LDAP-SOX/perfiles_moviles_7_2.pdf"> Perfiles moviles en linux server.pdf</a>      </td>
 
   </tr>
 
