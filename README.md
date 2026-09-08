@@ -26,7 +26,7 @@
 
 
 >[!WARNING]
-># Estos son mis apuntes y trabajos de [SX], no estan "todos" solo los considere más interesantes para consultar posteriormente. 
+># Estos son mis apuntes y trabajos de [SX]. 
 ># Si no se carga el PDF, recargue la pagina, son documentos pesados.  
 ># Si quiere emplear el índice interactivo, tendrá que descargar el PDF.
 
