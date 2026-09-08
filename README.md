@@ -289,17 +289,17 @@ Descargando el archivo y abriéndolo en su sistema.
   </tr>
   <tr>
     <td style="border: 1px solid black; padding: 8px;">
-    <a href="">[02]SGS_practica_01_Wserver_2019.pdf </a>  &emsp; &emsp; &emsp; &emsp; &emsp; <a href=""> [02]Practica_02_SOX.pdf</a>   &emsp; &emsp; &thinsp; <a href=""> [02]EJERCICIOS COMANDOS NET Y COMANDOS DE POWERSHELL (1) [03].pdf </a>    <a href="">[02]Unir_Cliente_a_dominio[04].pdf  </a>  &emsp;   <a href=""> [02][Maqueta]_SOX_Power_shell_II-[05].pdf </a>    <br> <a href=""> [02]Escritorio_remoto_SOX_2022[06].pdf  </a> &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<a href=""> [02]recursos_compartidos_SOX_2022[07].pdf   </a>  </td>
+    <a href="">[02]SGS_practica_01_Wserver_2019.pdf </a>  &emsp;  <a href=""> [02]Practica_02_SOX.pdf</a> &emsp;  &emsp; &emsp; &thinsp; &emsp;<a href=""> [02]EJERCICIOS COMANDOS NET Y COMANDOS DE POWERSHELL (1) [03].pdf </a>  &emsp; &emsp;  &emsp;&emsp; &emsp;&emsp; &thinsp; <a href="">[02]Unir_Cliente_a_dominio[04].pdf  </a>  &thinsp;   <a href=""> [02][Maqueta]_SOX_Power_shell_II-[05].pdf </a>    <br> <a href=""> [02]Escritorio_remoto_SOX_2022[06].pdf  </a> &thinsp;<a href=""> [02]recursos_compartidos_SOX_2022[07].pdf   </a>  </td>
 
   </tr>
   <tr>
     <td style="border: 1px solid black; padding: 8px;">
-    <a href=""> [02]Powershell_II[08].pdf </a>  &emsp; &emsp; &emsp; &emsp; &emsp; <a href=""> [02]maqueta_practica_09.pdf </a>   &emsp; &emsp; &thinsp; <a href=""> [02]CALA (II) Ejercicios Usuarios y equipos AD[10].pdf </a>    <a href="">[02]C_Masiva_Power shell script_II_[11].pdf </a>  &emsp;   <a href=""> [02]SOX_carpetas_comp[12].pdf  </a>    <br> <a href=""> [02]Practica_13_Perfiles_Carpetas_scripts.pdf  </a> &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<a href=""> [02]Practica_14_permisos_listas.pdf  </a>  </td>
+    <a href=""> [02]Powershell_II[08].pdf </a>  &emsp; &emsp; &emsp;  &thinsp; <a href=""> [02]maqueta_practica_09.pdf </a>  &thinsp; <a href=""> [02]CALA (II) Ejercicios Usuarios y equipos AD[10].pdf </a>  &emsp;&emsp; &emsp;   &emsp; &thinsp;   <a href="">[02]C_Masiva_Power shell script_II_[11].pdf </a>  &emsp;  &emsp;&emsp; &emsp;   &emsp;   &emsp;&emsp;&emsp;    &emsp; <a href=""> [02]SOX_carpetas_comp[12].pdf  </a>    <br> <a href=""> [02]Practica_13_Perfiles_Carpetas_scripts.pdf  </a> &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<a href=""> [02]Practica_14_permisos_listas.pdf  </a>  </td>
 
   </tr>
  <tr>
     <td style="border: 1px solid black; padding: 8px;">
-    <a href="">[02]Practica_15_GPO.pdf </a>  &emsp; &emsp; &emsp; &emsp; &emsp; <a href="">[02]Practica_16_cuotas.pdf </a>   &emsp; &emsp; &thinsp; <a href=""> [02]Practica_17_delegar_control.pdf </a>    <a href="">[02]Practica_18_copias_de_seguridad.pdf  </a>  &emsp;   <a href="">  [02]Practica_19_compartir_impresora.pdf  </a>    <br>   </td>
+    <a href="">[02]Practica_15_GPO.pdf </a>  &emsp; &emsp; &emsp;  <a href="">[02]Practica_16_cuotas.pdf </a>   &emsp; &thinsp; &thinsp; <a href=""> [02]Practica_17_delegar_control.pdf </a>    <a href="">[02]Practica_18_copias_de_seguridad.pdf  </a>  &emsp;  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; <a href="">  [02]Practica_19_compartir_impresora.pdf  </a>    <br>   </td>
 
   </tr>
 
