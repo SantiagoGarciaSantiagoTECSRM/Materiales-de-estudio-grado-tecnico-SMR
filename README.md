@@ -322,5 +322,5 @@ Descargando el archivo y abriéndolo en su sistema.
 
 
 
-<a name="año_01_02">Libros de texto oficiales del grado SMR: </a>
+<a name="año_01_02"><a href="https://github.com/SantiagoGarciaSantiagoTECSRM/Materiales-de-estudio-grado-tecnico-SMR/blob/Libros-de-texto-oficiales-Grado-tecnico-SRM/README.md">Libros de texto oficiales del grado SMR:</a> </a>
 
