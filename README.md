@@ -1,11 +1,11 @@
 
 <hr>
+ &thinsp;<a href="https://github.com/SantiagoGarciaSantiagoTECSRM/Materiales-de-estudio-grado-tecnico-SMR">|Indice|</a>
+ <hr>
 <br>
-
-
 <table style="margin: 0 auto; width: 50%; border-collapse: collapse; align:center;"">
   <tr>
-    <th style="border: 1px solid black; padding: 8px;">Dosieres y laboratorios [SI]</th>
+    <th style="border: 1px solid black; padding: 8px;">Dosieres y laboratorios [SI] </th>
   </tr>
   <tr>
     <td style="border: 1px solid black; padding: 8px;">
