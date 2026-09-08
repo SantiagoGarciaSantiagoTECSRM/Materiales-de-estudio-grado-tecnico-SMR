@@ -7,14 +7,14 @@
 
 <br>
 
-<hr>
 
+<hr>
 
 >[!note]
 >Esto son todos los dosieres, ejercicios y apuntes de las asignaturas de Sistemas mono usuario [SOM], Redes [XL]
 >del primer año.
+>También están los tres dosieres oficiales (1 x evaluación) correspondientes a la asignatura de sistemas [SOM]
 >
->Tambien esta el dosier oficial de estudio 
 
 <hr>
  
