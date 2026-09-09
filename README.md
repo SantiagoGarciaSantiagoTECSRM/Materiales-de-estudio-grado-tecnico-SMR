@@ -19,11 +19,45 @@
   
 </table>
 
+<br>
 
 
+<table style="margin: 0 auto; width: 50%; border-collapse: collapse; align:center;"">
+  <tr>
+    <th style="border: 1px solid black; padding: 8px;">&emsp; &emsp;&emsp;&emsp;&emsp; &emsp;&emsp;&emsp; &emsp;&emsp; &emsp;&emsp; &emsp; &emsp;&emsp; &emsp;&emsp; &emsp;  Adicionales - Libros oficiales [XL] &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;&emsp;&emsp; &emsp;&emsp;&emsp; &emsp;&emsp;&emsp; &emsp;&emsp;&emsp; &emsp;&ensp;</th>
+  </tr>
+  <tr>
+    <td style="border: 1px solid black; padding: 8px;">
+     <a href="">Presentacion_linux[XL|SOM]</a>   &emsp; &emsp; <a href="">Recull_tracer[XL]</a> </td>
+ 
+  </tr>
+  
+</table>
+
+<br>
 
 
+<table style="margin: 0 auto; width: 50%; border-collapse: collapse; align:center;"">
+  <tr>
+    <th style="border: 1px solid black; padding: 8px;"> &emsp; &emsp; &emsp;&emsp; &emsp; &emsp;&emsp; &emsp; &emsp;&emsp; &emsp;  &emsp;&emsp; &emsp; &emsp;&emsp; &emsp; &emsp;&emsp; &emsp;  Redes de area local - Libro oficial [XL] &emsp; &emsp;&emsp;  &emsp;&emsp; &emsp;  &emsp;&emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;</th>
+  </tr>
+  <tr>
+    <td style="border: 1px solid black; padding: 8px;">
+     <a href="">Redes_area_local_001[XL]</a>   &emsp;&emsp;&emsp;&emsp; &emsp;&emsp;&emsp;&emsp;&emsp; &emsp;<a href="">Redes_area_local_002[XL];</a>
+ &emsp; &emsp; &emsp;&emsp;&emsp;&emsp; &emsp;<a href="">Redes_area_local_003[XL]</a> 
+     </td>
+ 
+  </tr>
 
+  <tr>
+    <td style="border: 1px solid black; padding: 8px;">
+     <a href="">Redes_area_local_004[XL]</a>   &emsp;&emsp;&emsp;&emsp; &emsp;&emsp;&emsp;&emsp;&emsp; &emsp;<a href="">Redes_area_local_005[XL];</a>
+ &emsp; &emsp; &emsp;&emsp;&emsp;&emsp; &emsp;<a href="">Redes_area_local_006[XL]</a> 
+     </td>
+ 
+  </tr>
+  
+</table>
 
 
 
