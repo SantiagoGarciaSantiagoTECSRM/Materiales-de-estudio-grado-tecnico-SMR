@@ -4,6 +4,35 @@
 <br>
 
 
+
+<table style="margin: 0 auto; width: 50%; border-collapse: collapse; align:center;"">
+  <tr>
+    <th style="border: 1px solid black; padding: 8px;">&emsp; &emsp;&emsp; &emsp; Sistemas Operativos Mono Puesto - Libros oficiales [SOM] &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; </th>
+  </tr>
+  <tr>
+    <td style="border: 1px solid black; padding: 8px;">
+     <a href="">Introducción a los sistemas operativos[SOM]</a>   &emsp; &emsp; <a href="">Sistemas operativos propietarios[SOM]</a>
+ &emsp; &emsp; <a href="">Sistemas operativos libres[SOM]</a> 
+     </td>
+ 
+  </tr>
+  
+</table>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <br>
 
 <hr>
