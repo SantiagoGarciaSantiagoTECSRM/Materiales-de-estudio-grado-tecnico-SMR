@@ -1,5 +1,5 @@
 >[!WARNING]
-># # Los archivos son pesados, si no se ven al seguir el enlace, recargue la página.   
+># Los archivos son pesados, si no se ven al seguir el enlace, recargue la página.   
 ># Ultima revisión: 09-09-2026
  
 
