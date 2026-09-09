@@ -59,7 +59,30 @@
   
 </table>
 
+<br>
 
+
+<table style="margin: 0 auto; width: 50%; border-collapse: collapse; align:center;"">
+  <tr>
+    <th style="border: 1px solid black; padding: 8px;"> &emsp; &emsp; &emsp;&emsp; &emsp; &emsp;&emsp; &emsp; &emsp;&emsp; &emsp;  &emsp;&emsp; &emsp; &emsp;&emsp; &emsp; &emsp;&emsp; &emsp;  Servicios en red - Libro oficial [SX] &emsp; &emsp;&emsp;  &emsp;&emsp; &emsp;  &emsp;&emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;</th>
+  </tr>
+  <tr>
+    <td style="border: 1px solid black; padding: 8px;">
+     <a href="">Servicios_en_red_001[SX]</a>   &emsp;&emsp;&emsp;&emsp; &emsp;&emsp;&emsp;&emsp;&emsp; &emsp;<a href="">Servicios_en_red_002[SX]</a>
+ &emsp; &emsp; &emsp;&emsp;&emsp;&emsp; &emsp;<a href="">Servicios_en_red_003[SX]</a> 
+     </td>
+ 
+  </tr>
+
+  <tr>
+    <td style="border: 1px solid black; padding: 8px;">
+     <a href="">Servicios_en_red_004[SX]</a>   &emsp;&emsp;&emsp;&emsp; &emsp;&emsp;&emsp;&emsp;&emsp; &emsp;<a href="">Servicios_en_red_005[SX]</a>
+ &emsp; &emsp; &emsp;&emsp;&emsp;&emsp; &emsp;
+     </td>
+ 
+  </tr>
+  
+</table>
 
 
 
