@@ -11,8 +11,8 @@
   </tr>
   <tr>
     <td style="border: 1px solid black; padding: 8px;">
-     <a href="https://github.com/SantiagoGarciaSantiagoTECSRM/Materiales-de-estudio-grado-tecnico-SMR/blob/Libros-de-texto-oficiales-Grado-tecnico-SRM/fp_smx_m02_u1_pdfindex.pdf">Introducción a los sistemas operativos[SOM]</a>   &emsp; &emsp; <a href="">Sistemas operativos propietarios[SOM]</a>
- &emsp; &emsp; <a href="">Sistemas operativos libres[SOM]</a> 
+     <a href="https://github.com/SantiagoGarciaSantiagoTECSRM/Materiales-de-estudio-grado-tecnico-SMR/blob/Libros-de-texto-oficiales-Grado-tecnico-SRM/fp_smx_m02_u1_pdfindex.pdf">Introducción a los sistemas operativos[SOM]</a>   &emsp; &emsp; <a href="https://github.com/SantiagoGarciaSantiagoTECSRM/Materiales-de-estudio-grado-tecnico-SMR/blob/Libros-de-texto-oficiales-Grado-tecnico-SRM/fp_smx_m02_u2_pdfindex.pdf">Sistemas operativos propietarios[SOM]</a>
+ &emsp; &emsp; <a href="https://github.com/SantiagoGarciaSantiagoTECSRM/Materiales-de-estudio-grado-tecnico-SMR/blob/Libros-de-texto-oficiales-Grado-tecnico-SRM/fp_smx_m02_u3_pdfindex.pdf">Sistemas operativos libres[SOM]</a> 
      </td>
  
   </tr>
