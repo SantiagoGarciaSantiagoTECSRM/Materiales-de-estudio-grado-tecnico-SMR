@@ -43,16 +43,16 @@
   </tr>
   <tr>
     <td style="border: 1px solid black; padding: 8px;">
-     <a href="">Redes_area_local_001[XL]</a>   &emsp;&emsp;&emsp;&emsp; &emsp;&emsp;&emsp;&emsp;&emsp; &emsp;<a href="">Redes_area_local_002[XL];</a>
- &emsp; &emsp; &emsp;&emsp;&emsp;&emsp; &emsp;<a href="">Redes_area_local_003[XL]</a> 
+     <a href="https://github.com/SantiagoGarciaSantiagoTECSRM/Materiales-de-estudio-grado-tecnico-SMR/blob/Libros-de-texto-oficiales-Grado-tecnico-SRM/fp_smx_m05_material_paper.pdf.7z.001">Redes_area_local_001[XL]</a>   &emsp;&emsp;&emsp;&emsp; &emsp;&emsp;&emsp;&emsp;&emsp; &emsp;<a href="https://github.com/SantiagoGarciaSantiagoTECSRM/Materiales-de-estudio-grado-tecnico-SMR/blob/Libros-de-texto-oficiales-Grado-tecnico-SRM/fp_smx_m05_material_paper.pdf.7z.002">Redes_area_local_002[XL];</a>
+ &emsp; &emsp; &emsp;&emsp;&emsp;&emsp; &emsp;<a href="https://github.com/SantiagoGarciaSantiagoTECSRM/Materiales-de-estudio-grado-tecnico-SMR/blob/Libros-de-texto-oficiales-Grado-tecnico-SRM/fp_smx_m05_material_paper.pdf.7z.003">Redes_area_local_003[XL]</a> 
      </td>
  
   </tr>
 
   <tr>
     <td style="border: 1px solid black; padding: 8px;">
-     <a href="">Redes_area_local_004[XL]</a>   &emsp;&emsp;&emsp;&emsp; &emsp;&emsp;&emsp;&emsp;&emsp; &emsp;<a href="">Redes_area_local_005[XL];</a>
- &emsp; &emsp; &emsp;&emsp;&emsp;&emsp; &emsp;<a href="">Redes_area_local_006[XL]</a> 
+     <a href="https://github.com/SantiagoGarciaSantiagoTECSRM/Materiales-de-estudio-grado-tecnico-SMR/blob/Libros-de-texto-oficiales-Grado-tecnico-SRM/fp_smx_m05_material_paper.pdf.7z.004">Redes_area_local_004[XL]</a>   &emsp;&emsp;&emsp;&emsp; &emsp;&emsp;&emsp;&emsp;&emsp; &emsp;<a href="https://github.com/SantiagoGarciaSantiagoTECSRM/Materiales-de-estudio-grado-tecnico-SMR/blob/Libros-de-texto-oficiales-Grado-tecnico-SRM/fp_smx_m05_material_paper.pdf.7z.005">Redes_area_local_005[XL];</a>
+ &emsp; &emsp; &emsp;&emsp;&emsp;&emsp; &emsp;<a href="https://github.com/SantiagoGarciaSantiagoTECSRM/Materiales-de-estudio-grado-tecnico-SMR/blob/Libros-de-texto-oficiales-Grado-tecnico-SRM/fp_smx_m05_material_paper.pdf.7z.006">Redes_area_local_006[XL]</a> 
      </td>
  
   </tr>
@@ -68,15 +68,15 @@
   </tr>
   <tr>
     <td style="border: 1px solid black; padding: 8px;">
-     <a href="">Servicios_en_red_001[SX]</a>   &emsp;&emsp;&emsp;&emsp; &emsp;&emsp;&emsp;&emsp;&emsp; &emsp;<a href="">Servicios_en_red_002[SX]</a>
- &emsp; &emsp; &emsp;&emsp;&emsp;&emsp; &emsp;<a href="">Servicios_en_red_003[SX]</a> 
+     <a href="https://github.com/SantiagoGarciaSantiagoTECSRM/Materiales-de-estudio-grado-tecnico-SMR/blob/Libros-de-texto-oficiales-Grado-tecnico-SRM/fp_smx_m07_Servicios_en_red.pdf.7z.001">Servicios_en_red_001[SX]</a>   &emsp;&emsp;&emsp;&emsp; &emsp;&emsp;&emsp;&emsp;&emsp; &emsp;<a href="https://github.com/SantiagoGarciaSantiagoTECSRM/Materiales-de-estudio-grado-tecnico-SMR/blob/Libros-de-texto-oficiales-Grado-tecnico-SRM/fp_smx_m07_Servicios_en_red.pdf.7z.002">Servicios_en_red_002[SX]</a>
+ &emsp; &emsp; &emsp;&emsp;&emsp;&emsp; &emsp;<a href="https://github.com/SantiagoGarciaSantiagoTECSRM/Materiales-de-estudio-grado-tecnico-SMR/blob/Libros-de-texto-oficiales-Grado-tecnico-SRM/fp_smx_m07_Servicios_en_red.pdf.7z.003">Servicios_en_red_003[SX]</a> 
      </td>
  
   </tr>
 
   <tr>
     <td style="border: 1px solid black; padding: 8px;">
-     <a href="">Servicios_en_red_004[SX]</a>   &emsp;&emsp;&emsp;&emsp; &emsp;&emsp;&emsp;&emsp;&emsp; &emsp;<a href="">Servicios_en_red_005[SX]</a>
+     <a href="https://github.com/SantiagoGarciaSantiagoTECSRM/Materiales-de-estudio-grado-tecnico-SMR/blob/Libros-de-texto-oficiales-Grado-tecnico-SRM/fp_smx_m07_Servicios_en_red.pdf.7z.004">Servicios_en_red_004[SX]</a>   &emsp;&emsp;&emsp;&emsp; &emsp;&emsp;&emsp;&emsp;&emsp; &emsp;<a href="https://github.com/SantiagoGarciaSantiagoTECSRM/Materiales-de-estudio-grado-tecnico-SMR/blob/Libros-de-texto-oficiales-Grado-tecnico-SRM/fp_smx_m07_Servicios_en_red.pdf.7z.005">Servicios_en_red_005[SX]</a>
  &emsp; &emsp; &emsp;&emsp;&emsp;&emsp; &emsp;
      </td>
  
