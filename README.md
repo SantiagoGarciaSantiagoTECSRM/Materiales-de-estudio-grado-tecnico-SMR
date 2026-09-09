@@ -28,7 +28,7 @@
   </tr>
   <tr>
     <td style="border: 1px solid black; padding: 8px;">
-     <a href="">Presentacion_linux[XL|SOM]</a>   &emsp; &emsp; <a href="">Recull_tracer[XL]</a> </td>
+     <a href="https://github.com/SantiagoGarciaSantiagoTECSRM/Materiales-de-estudio-grado-tecnico-SMR/blob/Libros-de-texto-oficiales-Grado-tecnico-SRM/teoria_linux_%20SOXL.pdf">Presentacion_linux[XL|SOM]</a>   &emsp; &emsp; <a href="https://github.com/SantiagoGarciaSantiagoTECSRM/Materiales-de-estudio-grado-tecnico-SMR/blob/Libros-de-texto-oficiales-Grado-tecnico-SRM/XL-ACT-7-3_tracer_recull.pdf">Recull_tracer[XL]</a> </td>
  
   </tr>
   
