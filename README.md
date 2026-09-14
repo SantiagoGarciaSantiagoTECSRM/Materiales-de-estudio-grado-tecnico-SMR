@@ -45,13 +45,11 @@ Sí, aunque en principio estos apuntes no fueron creados ni para ser impresos, n
 Descargando el archivo y abriéndolo en su sistema.
 
 <a name="año_01">Indice año 01: </a>
-Básicos Admin Linux Server [SOM] 
-
 
 #### 📌 Primera Evaluación
 *   [📂 Carpeta principal de la unidad]
 *   📄 **Apuntes:**
-    *  <a href="https://github.com/SantiagoGarciaSantiagoTECSRM/Materiales-de-estudio-grado-tecnico-SMR/blob/Apuntes-y-ejercicios-del-primer-a%C3%B1o-SRM/%5B01%5DApuntes_SOM_edva_02_%20-IDX.pdf"> [Fundamentos de Sistemas]  </a> 
+    *  <a href="https://github.com/SantiagoGarciaSantiagoTECSRM/Materiales-de-estudio-grado-tecnico-SMR/blob/Apuntes-y-ejercicios-del-primer-a%C3%B1o-SRM/Apuntes_corregidos_SOM.pdf"> [Fundamentos de Sistemas]  </a> 
     *  <a href="https://github.com/SantiagoGarciaSantiagoTECSRM/Materiales-de-estudio-grado-tecnico-SRM/blob/Apuntes-y-ejercicios-del-primer-a%C3%B1o-SRM/Linux%20SOM.pdf"> [Básicos Administración Linux Server] </a>
     *  <a href="https://github.com/SantiagoGarciaSantiagoTECSRM/Materiales-de-estudio-grado-tecnico-SRM/blob/Apuntes-y-ejercicios-del-primer-a%C3%B1o-SRM/%5B01%5DAPUNTES_primer_a%C3%B1o_XL_-IDX.pdf"> [Apuntes Finales Primera Evaluación IDX] </a>
 *   📝 **Ejercicios y Dosieres:**
