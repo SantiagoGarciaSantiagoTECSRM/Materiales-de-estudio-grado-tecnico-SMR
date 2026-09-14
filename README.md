@@ -199,6 +199,12 @@ Descargando el archivo y abriéndolo en su sistema.
 
 
 
+### 📚 Material Adicional - Libros Oficiales [XL]
+
+*   [📂 Carpeta de Libros Adicionales]
+*   📄 <a href="https://github.com/SantiagoGarciaSantiagoTECSRM/Materiales-de-estudio-grado-tecnico-SMR/blob/Libros-de-texto-oficiales-Grado-tecnico-SRM/teoria_linux_%20SOXL.pdf">[Presentación Linux [XL | SOM]]</a>
+*   📊 <a href="https://github.com/SantiagoGarciaSantiagoTECSRM/Materiales-de-estudio-grado-tecnico-SMR/blob/Libros-de-texto-oficiales-Grado-tecnico-SRM/XL-ACT-7-3_tracer_recull.pdf">[Recull Tracer [XL]]</a>
+
 
 
 
