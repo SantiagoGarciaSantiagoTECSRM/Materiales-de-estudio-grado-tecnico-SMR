@@ -45,88 +45,39 @@ Sí, aunque en principio estos apuntes no fueron creados ni para ser impresos, n
 Descargando el archivo y abriéndolo en su sistema.
 
 <a name="año_01">Indice año 01: </a>
+Básicos Admin Linux Server [SOM] 
 
 
-<table style="margin: 0 auto; width: 50%; border-collapse: collapse; align:center;"">
-  <tr>
-    <th style="border: 1px solid black; padding: 8px;">&emsp;  &emsp; &emsp;&emsp; &emsp;Sistemas Operativos Mono Puesto - Primera evaluación - [SOM] &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; </th>
-  </tr>
-  <tr>
-    <td style="border: 1px solid black; padding: 8px;">
-     <a href="https://github.com/SantiagoGarciaSantiagoTECSRM/Materiales-de-estudio-grado-tecnico-SRM/blob/Apuntes-y-ejercicios-del-primer-a%C3%B1o-SRM/Apuntes_corregidos_SOM.pdf">Apuntes fundamentos de Sistemas [SOM] </a>   &emsp; &emsp; <a href="https://github.com/SantiagoGarciaSantiagoTECSRM/Materiales-de-estudio-grado-tecnico-SRM/blob/Apuntes-y-ejercicios-del-primer-a%C3%B1o-SRM/Linux%20SOM.pdf">Básicos Admin Linux Server [SOM] </a>
- &emsp; &emsp; <a href="https://github.com/SantiagoGarciaSantiagoTECSRM/Materiales-de-estudio-grado-tecnico-SRM/blob/Apuntes-y-ejercicios-del-primer-a%C3%B1o-SRM/%5B01%5DAPUNTES_primer_a%C3%B1o_XL_-IDX.pdf">Apuntes finales primera evaluación IDX [SOM] </a>
-     
- 
-  </tr>
-  
-</table>
+#### 📌 Primera Evaluación
+*   [📂 Carpeta principal de la unidad]
+*   📄 **Apuntes:**
+    *  <a href="https://github.com/SantiagoGarciaSantiagoTECSRM/Materiales-de-estudio-grado-tecnico-SMR/blob/Apuntes-y-ejercicios-del-primer-a%C3%B1o-SRM/%5B01%5DApuntes_SOM_edva_02_%20-IDX.pdf"> [Fundamentos de Sistemas]  </a> 
+    *  
+<a href="https://github.com/SantiagoGarciaSantiagoTECSRM/Materiales-de-estudio-grado-tecnico-SRM/blob/Apuntes-y-ejercicios-del-primer-a%C3%B1o-SRM/Linux%20SOM.pdf"> [Básicos Administración Linux Server] </a>
+    *  <a href="https://github.com/SantiagoGarciaSantiagoTECSRM/Materiales-de-estudio-grado-tecnico-SRM/blob/Apuntes-y-ejercicios-del-primer-a%C3%B1o-SRM/%5B01%5DAPUNTES_primer_a%C3%B1o_XL_-IDX.pdf"> [Apuntes Finales Primera Evaluación IDX] </a>
+*   📝 **Ejercicios y Dosieres:**
+    *   <a href="https://github.com/SantiagoGarciaSantiagoTECSRM/Materiales-de-estudio-grado-tecnico-SRM/blob/Apuntes-y-ejercicios-del-primer-a%C3%B1o-SRM/Ejercicio_SOM_%5B01%5D7zip.pdf"> [01 - Ejercicio 7zip]  </a>
+    * <a href="https://github.com/SantiagoGarciaSantiagoTECSRM/Materiales-de-estudio-grado-tecnico-SRM/blob/Apuntes-y-ejercicios-del-primer-a%C3%B1o-SRM/Ejercicio_SOM_%5B01%5Dadm_usuarios.pdf">  [02 - Administración de Usuarios] </a>
+    *  <a href="https://github.com/SantiagoGarciaSantiagoTECSRM/Materiales-de-estudio-grado-tecnico-SRM/blob/Apuntes-y-ejercicios-del-primer-a%C3%B1o-SRM/Ejercicio_SOM_%5B01%5Dcarpetas_especiales.pdf"> [03 - Carpetas y Contenedores Especiales] </a>
+    *  <a href="https://github.com/SantiagoGarciaSantiagoTECSRM/Materiales-de-estudio-grado-tecnico-SRM/blob/Apuntes-y-ejercicios-del-primer-a%C3%B1o-SRM/Ejercicio_SOM_%5B01%5Dherramientas_soporte.pdf"> [04 - Herramientas de Soporte] </a>
+    *  <a href="https://github.com/SantiagoGarciaSantiagoTECSRM/Materiales-de-estudio-grado-tecnico-SRM/blob/Apuntes-y-ejercicios-del-primer-a%C3%B1o-SRM/Ejercicio_SOM_%5B01%5Dpuntos_restauracion.pdf">  [05 - Puntos de Restauración] </a>
 
+#### 📌 Segunda Evaluación
+*   [📂 Carpeta principal de la unidad]
+*   📄 **Apuntes:**
+    *   <a href="https://github.com/SantiagoGarciaSantiagoTECSRM/Materiales-de-estudio-grado-tecnico-SMR/blob/Apuntes-y-ejercicios-del-primer-a%C3%B1o-SRM/%5B01%5DApuntes_SOM_edva_02_%20-IDX.pdf"> [Fundamentos de Sistemas 02] </a>
 
-<table style="margin: 0 auto; width: 50%; border-collapse: collapse; align:center;"">
-  <tr>
-    <th style="border: 1px solid black; padding: 8px;">&emsp; &emsp;&emsp; &emsp;Ejercicios y dosieres [SOM] 01 &emsp; &emsp; &emsp; &emsp;  </th>
-  </tr>
-  <tr>
-    <td style="border: 1px solid black; padding: 8px;">
-     <a href="https://github.com/SantiagoGarciaSantiagoTECSRM/Materiales-de-estudio-grado-tecnico-SRM/blob/Apuntes-y-ejercicios-del-primer-a%C3%B1o-SRM/Ejercicio_SOM_%5B01%5D7zip.pdf">01 Ejercicio 7zip  </a>  &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;  <a href="https://github.com/SantiagoGarciaSantiagoTECSRM/Materiales-de-estudio-grado-tecnico-SRM/blob/Apuntes-y-ejercicios-del-primer-a%C3%B1o-SRM/Ejercicio_SOM_%5B01%5Dadm_usuarios.pdf"> 02 Ejercicio Administracion de usuarios   </a>  &emsp; &emsp; &emsp;  <a href="https://github.com/SantiagoGarciaSantiagoTECSRM/Materiales-de-estudio-grado-tecnico-SRM/blob/Apuntes-y-ejercicios-del-primer-a%C3%B1o-SRM/Ejercicio_SOM_%5B01%5Dcarpetas_especiales.pdf">&emsp; &emsp;03 Ejercicio Carpetas y contenedores especiales  </a>  <br>     <a href="https://github.com/SantiagoGarciaSantiagoTECSRM/Materiales-de-estudio-grado-tecnico-SRM/blob/Apuntes-y-ejercicios-del-primer-a%C3%B1o-SRM/Ejercicio_SOM_%5B01%5Dherramientas_soporte.pdf">04 Herramientas de soporte  </a>  &emsp; &thinsp;  <a href="https://github.com/SantiagoGarciaSantiagoTECSRM/Materiales-de-estudio-grado-tecnico-SRM/blob/Apuntes-y-ejercicios-del-primer-a%C3%B1o-SRM/Ejercicio_SOM_%5B01%5Dpuntos_restauracion.pdf"> 05 Puntos de restauracion   </a>   </td>
-  </tr>
+#### 📌 Tercera Evaluación
+*   [📂 Carpeta principal de la unidad]
+*   📄 **Apuntes:**
+    *    <a href="https://github.com/SantiagoGarciaSantiagoTECSRM/Materiales-de-estudio-grado-tecnico-SMR/blob/Apuntes-y-ejercicios-del-primer-a%C3%B1o-SRM/%5B01%5Dapuntes_finales_SOM%203edva_-%20IDX.pdf"> [Fundamentos de Sistemas 03] </a>
+    * <a href="https://github.com/SantiagoGarciaSantiagoTECSRM/Materiales-de-estudio-grado-tecnico-SMR/blob/Apuntes-y-ejercicios-del-primer-a%C3%B1o-SRM/%5BEX%5DApuntes_linux_SOM_IDX.pdf">  [Apuntes Finales Linux IDX]  </a>
+    *  <a href="https://github.com/SantiagoGarciaSantiagoTECSRM/Materiales-de-estudio-grado-tecnico-SMR/blob/Apuntes-y-ejercicios-del-primer-a%C3%B1o-SRM/%5BEX%5Dapuntes_finales_SOM%20-%20IDX.pdf"> [Apuntes Finales SOM IDX] </a>
 
-</table>
-
-<br>
-<br>
-
-<table style="margin: 0 auto; width: 50%; border-collapse: collapse; align:center;"">
-  <tr>
-    <th style="border: 1px solid black; padding: 8px;"> &emsp; &emsp; &emsp; &emsp;  &emsp; &emsp;  &emsp; &emsp; Sistemas Operativos Mono Puesto - Segunda evaluación - [SOM]  &emsp; &emsp; &emsp; &emsp;  &emsp; &emsp; &emsp; &emsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp; &emsp; &emsp; &thinsp;&thinsp;&thinsp;</th>
-  </tr>
-  <tr>
-    <td style="border: 1px solid black; padding: 8px;">
-     <a href="https://github.com/SantiagoGarciaSantiagoTECSRM/Materiales-de-estudio-grado-tecnico-SMR/blob/Apuntes-y-ejercicios-del-primer-a%C3%B1o-SRM/%5B01%5DApuntes_SOM_edva_02_%20-IDX.pdf">Apuntes fundamentos de Sistemas 02 [SOM] </a>   &emsp; &emsp;  &emsp; &emsp;
-     
- 
-  </tr>
-  
-</table>
-
- 
-<br>
-<br>
-
-
-<table style="margin: 0 auto; width: 50%; border-collapse: collapse; align:center;"">
-  <tr>
-    <th style="border: 1px solid black; padding: 8px;"> &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;Sistemas Operativos Mono Puesto - Tercera evaluación - [SOM]  &emsp; &emsp;  &emsp; &emsp;  &emsp; &emsp;</th>
-  </tr>
-  <tr>
-    <td style="border: 1px solid black; padding: 8px;">
-     <a href="https://github.com/SantiagoGarciaSantiagoTECSRM/Materiales-de-estudio-grado-tecnico-SMR/blob/Apuntes-y-ejercicios-del-primer-a%C3%B1o-SRM/%5B01%5Dapuntes_finales_SOM%203edva_-%20IDX.pdf">Apuntes fundamentos de Sistemas 03 [SOM] </a>   &emsp; &emsp; <a href="https://github.com/SantiagoGarciaSantiagoTECSRM/Materiales-de-estudio-grado-tecnico-SMR/blob/Apuntes-y-ejercicios-del-primer-a%C3%B1o-SRM/%5BEX%5DApuntes_linux_SOM_IDX.pdf">Apuntes finales linux IDX [SOM] </a>
- &emsp; &emsp; <a href="https://github.com/SantiagoGarciaSantiagoTECSRM/Materiales-de-estudio-grado-tecnico-SMR/blob/Apuntes-y-ejercicios-del-primer-a%C3%B1o-SRM/%5BEX%5Dapuntes_finales_SOM%20-%20IDX.pdf">Apuntes finales SOM IDX [SOM] </a>
-     
- 
-  </tr>
-  
-</table>
-
-<table style="margin: 0 auto; width: 50%; border-collapse: collapse; align:center;"">
-  <tr>
-    <th style="border: 1px solid black; padding: 8px;">&emsp;&emsp; &emsp;&emsp; &emsp; &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; &emsp;Redes locales - [XL] &emsp; &emsp;&emsp; &emsp;&emsp; &emsp;&thinsp;&thinsp;&thinsp;&thinsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;</th>
-  </tr>
-  <tr>
-    <td style="border: 1px solid black; padding: 8px;">&thinsp;&thinsp;&thinsp; &thinsp;&thinsp;&emsp;&emsp; &emsp;
-    <a href="https://github.com/SantiagoGarciaSantiagoTECSRM/Materiales-de-estudio-grado-tecnico-SMR/blob/Apuntes-y-ejercicios-del-primer-a%C3%B1o-SRM/%5B01%5DAPUNTES_primer_a%C3%B1o_XL_-IDX.pdf">Apuntes (Unificados) Redes IDX [XL] </a>   &emsp; &emsp; <a href="https://github.com/SantiagoGarciaSantiagoTECSRM/Materiales-de-estudio-grado-tecnico-SMR/blob/Apuntes-y-ejercicios-del-primer-a%C3%B1o-SRM/%5BEX%5Ddosier_def_redes_-IDX.pdf">Dosier de Redes EX [XL]  </a>&emsp;&emsp;
- &emsp; &emsp; &thinsp;&thinsp;&thinsp;&thinsp;<a href="https://github.com/SantiagoGarciaSantiagoTECSRM/Materiales-de-estudio-grado-tecnico-SMR/blob/Apuntes-y-ejercicios-del-primer-a%C3%B1o-SRM/anexo_conversion_SI_TI.pdf">Anexo conversiones IT [SOM/XL]  </a>
-     
- 
-  </tr>
-  
-</table>
-
-
-
-
-
-
+*   📄 **Apuntes Redes locales:**
+    * <a href="https://github.com/SantiagoGarciaSantiagoTECSRM/Materiales-de-estudio-grado-tecnico-SMR/blob/Apuntes-y-ejercicios-del-primer-a%C3%B1o-SRM/%5B01%5DAPUNTES_primer_a%C3%B1o_XL_-IDX.pdf"> [Apuntes (Unificados) Redes IDX XL] </a>
+    * <a href="https://github.com/SantiagoGarciaSantiagoTECSRM/Materiales-de-estudio-grado-tecnico-SMR/blob/Apuntes-y-ejercicios-del-primer-a%C3%B1o-SRM/%5BEX%5Ddosier_def_redes_-IDX.pdf">  [Dosier de Redes EX  XL]  </a>
+    *  <a href="https://github.com/SantiagoGarciaSantiagoTECSRM/Materiales-de-estudio-grado-tecnico-SMR/blob/Apuntes-y-ejercicios-del-primer-a%C3%B1o-SRM/anexo_conversion_SI_TI.pdf"> [Anexo conversiones IT SOM/XL] </a>
 
 
 
