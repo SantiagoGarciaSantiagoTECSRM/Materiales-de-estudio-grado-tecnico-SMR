@@ -199,9 +199,9 @@ Descargando el archivo y abriéndolo en su sistema.
 
 
 
-<a name="año_01_02">Libros de texto oficiales del grado SMR:</a> 
 
 
+### 📖 <a name="año_01_02">Libros Oficiales</a>
 ### 🖧 Sistemas Operativos Mono Puesto - Libros oficiales [SOM] 
 
 *   [📂 Carpeta principal de SOM]
@@ -218,9 +218,34 @@ Descargando el archivo y abriéndolo en su sistema.
 *   📊 <a href="https://github.com/SantiagoGarciaSantiagoTECSRM/Materiales-de-estudio-grado-tecnico-SMR/blob/Libros-de-texto-oficiales-Grado-tecnico-SRM/XL-ACT-7-3_tracer_recull.pdf">[Recull Tracer [XL]]</a>
 
 
+#### 🌐 Redes de Área Local [XL]
+*   [📂 Carpeta del Libro de Redes]
+*   📚 **Capítulos:**
+    *   <a href="">[Redes de Área Local - Parte 01]</a>
+    *   <a href="">[Redes de Área Local - Parte 02]</a>
+    *   <a href="">[Redes de Área Local - Parte 03]</a>
+    *   <a href="">[Redes de Área Local - Parte 04]</a>
+    *   <a href="">[Redes de Área Local - Parte 05]</a>
+    *   <a href="">[Redes de Área Local - Parte 06]</a>
+
+#### 🖥️ Servicios en Red [SX]
+*   [📂 Carpeta del Libro de Servicios]
+*   📚 **Capítulos:**
+    *   <a href="">[Servicios en Red - Parte 01]</a>
+    *   <a href="">[Servicios en Red - Parte 02]</a>
+    *   <a href="">[Servicios en Red - Parte 03]</a>
+    *   <a href="">[Servicios en Red - Parte 04]</a>
+    *   <a href="">[Servicios en Red - Parte 05]</a>
 
 
-<br>
+
+
+
+
+
+
+
+
 
 
 <table style="margin: 0 auto; width: 50%; border-collapse: collapse; align:center;"">
