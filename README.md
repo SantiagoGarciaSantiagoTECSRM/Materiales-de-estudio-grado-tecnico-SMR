@@ -176,7 +176,26 @@ Descargando el archivo y abriéndolo en su sistema.
 
 
 
-
+ *   🧪 **Laboratorio Windows Active Directory:**
+     *   <a href="">[01 - SGS Práctica 01 Windows Server 2019]</a>
+     *   <a href="">[02 - Práctica 02 SOX]</a>
+     *   <a href="">[03 - Ejercicios Comandos NET y PowerShell (1)]</a>
+     *   <a href="">[04 - Unir Cliente a Dominio]</a>
+     *   <a href="">[05 - Maqueta SOX PowerShell II]</a>
+     *   <a href="">[06 - Escritorio Remoto SOX 2022]</a>
+     *   <a href="">[07 - Recursos Compartidos SOX 2022]</a>
+     *   <a href="">[08 - PowerShell II]</a>
+     *   <a href="">[09 - Maqueta Práctica 09]</a>
+     *   <a href="">[10 - CALA (II) Ejercicios Usuarios y Equipos AD]</a>
+     *   <a href="">[11 - Carga Masiva PowerShell Script II]</a>
+     *   <a href="">[12 - SOX Carpetas Compartidas]</a>
+     *   <a href="">[13 - Práctica 13: Perfiles, Carpetas y Scripts]</a>
+     *   <a href="">[14 - Práctica 14: Permisos y Listas]</a>
+     *   <a href="">[15 - Práctica 15: GPO]</a>
+     *   <a href="">[16 - Práctica 16: Cuotas de Disco]</a>
+     *   <a href="">[17 - Práctica 17: Delegar Control]</a>
+     *   <a href="">[18 - Práctica 18: Copias de Seguridad]</a>
+     *   <a href="">[19 - Práctica 19: Compartir Impresora]</a>
 
 
 
