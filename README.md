@@ -199,6 +199,18 @@ Descargando el archivo y abriéndolo en su sistema.
 
 
 
+<a name="año_01_02">Libros de texto oficiales del grado SMR:</a> 
+
+
+### 🖧 Sistemas Operativos Mono Puesto - Libros oficiales [SOM] 
+
+*   [📂 Carpeta principal de SOM]
+*   📄 **Apuntes:**
+    *   <a href="https://github.com/SantiagoGarciaSantiagoTECSRM/Materiales-de-estudio-grado-tecnico-SMR/blob/Libros-de-texto-oficiales-Grado-tecnico-SRM/fp_smx_m02_u1_pdfindex.pdf">[ [Introducción a los sistemas operativosSOM]</a>
+    *   <a href="https://github.com/SantiagoGarciaSantiagoTECSRM/Materiales-de-estudio-grado-tecnico-SMR/blob/Libros-de-texto-oficiales-Grado-tecnico-SRM/fp_smx_m02_u2_pdfindex.pdf">[ [Sistemas operativos propietarios SOM]</a>
+    *   <a href="https://github.com/SantiagoGarciaSantiagoTECSRM/Materiales-de-estudio-grado-tecnico-SMR/blob/Libros-de-texto-oficiales-Grado-tecnico-SRM/fp_smx_m02_u3_pdfindex.pdf">[ [Sistemas operativos libres SOM]</a>   
+
+
 ### 📚 Material Adicional - Libros Oficiales [XL]
 
 *   [📂 Carpeta de Libros Adicionales]
@@ -207,49 +219,6 @@ Descargando el archivo y abriéndolo en su sistema.
 
 
 
-
-
-
-
-
-
-
-
-
-<a name="año_01_02">Libros de texto oficiales del grado SMR:</a> 
-
-
-
-
-
-<table style="margin: 0 auto; width: 50%; border-collapse: collapse; align:center;"">
-  <tr>
-    <th style="border: 1px solid black; padding: 8px;">&emsp; &emsp;&emsp; &emsp; Sistemas Operativos Mono Puesto - Libros oficiales [SOM] &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; </th>
-  </tr>
-  <tr>
-    <td style="border: 1px solid black; padding: 8px;">
-     <a href="https://github.com/SantiagoGarciaSantiagoTECSRM/Materiales-de-estudio-grado-tecnico-SMR/blob/Libros-de-texto-oficiales-Grado-tecnico-SRM/fp_smx_m02_u1_pdfindex.pdf">Introducción a los sistemas operativos[SOM]</a>   &emsp; &emsp; <a href="https://github.com/SantiagoGarciaSantiagoTECSRM/Materiales-de-estudio-grado-tecnico-SMR/blob/Libros-de-texto-oficiales-Grado-tecnico-SRM/fp_smx_m02_u2_pdfindex.pdf">Sistemas operativos propietarios[SOM]</a>
- &emsp; &emsp; <a href="https://github.com/SantiagoGarciaSantiagoTECSRM/Materiales-de-estudio-grado-tecnico-SMR/blob/Libros-de-texto-oficiales-Grado-tecnico-SRM/fp_smx_m02_u3_pdfindex.pdf">Sistemas operativos libres[SOM]</a> 
-     </td>
- 
-  </tr>
-  
-</table>
-
-<br>
-
-
-<table style="margin: 0 auto; width: 50%; border-collapse: collapse; align:center;"">
-  <tr>
-    <th style="border: 1px solid black; padding: 8px;">&emsp; &emsp;&emsp;&emsp;&emsp; &emsp;&emsp;&emsp; &emsp;&emsp; &emsp;Adicionales - Libros oficiales [XL] &emsp;&emsp;&emsp;&emsp;&emsp; &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;</th>
-  </tr>
-  <tr>
-    <td style="border: 1px solid black; padding: 8px;">
-     <a href="https://github.com/SantiagoGarciaSantiagoTECSRM/Materiales-de-estudio-grado-tecnico-SMR/blob/Libros-de-texto-oficiales-Grado-tecnico-SRM/teoria_linux_%20SOXL.pdf">Presentacion_linux[XL|SOM]</a>   &emsp; &emsp; <a href="https://github.com/SantiagoGarciaSantiagoTECSRM/Materiales-de-estudio-grado-tecnico-SMR/blob/Libros-de-texto-oficiales-Grado-tecnico-SRM/XL-ACT-7-3_tracer_recull.pdf">Recull_tracer[XL]</a> </td>
- 
-  </tr>
-  
-</table>
 
 <br>
 
