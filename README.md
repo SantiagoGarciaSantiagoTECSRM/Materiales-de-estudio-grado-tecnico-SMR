@@ -221,82 +221,21 @@ Descargando el archivo y abriéndolo en su sistema.
 #### 🌐 Redes de Área Local [XL]
 *   [📂 Carpeta del Libro de Redes]
 *   📚 **Capítulos:**
-    *   <a href="">[Redes de Área Local - Parte 01]</a>
-    *   <a href="">[Redes de Área Local - Parte 02]</a>
-    *   <a href="">[Redes de Área Local - Parte 03]</a>
-    *   <a href="">[Redes de Área Local - Parte 04]</a>
-    *   <a href="">[Redes de Área Local - Parte 05]</a>
-    *   <a href="">[Redes de Área Local - Parte 06]</a>
+    *   <a href="https://github.com/SantiagoGarciaSantiagoTECSRM/Materiales-de-estudio-grado-tecnico-SMR/blob/Libros-de-texto-oficiales-Grado-tecnico-SRM/fp_smx_m05_material_paper.pdf.7z.001">[Redes de Área Local - Parte 01]</a>
+    *   <a href="https://github.com/SantiagoGarciaSantiagoTECSRM/Materiales-de-estudio-grado-tecnico-SMR/blob/Libros-de-texto-oficiales-Grado-tecnico-SRM/fp_smx_m05_material_paper.pdf.7z.002">[Redes de Área Local - Parte 02]</a>
+    *   <a href="https://github.com/SantiagoGarciaSantiagoTECSRM/Materiales-de-estudio-grado-tecnico-SMR/blob/Libros-de-texto-oficiales-Grado-tecnico-SRM/fp_smx_m05_material_paper.pdf.7z.003">[Redes de Área Local - Parte 03]</a>
+    *   <a href="https://github.com/SantiagoGarciaSantiagoTECSRM/Materiales-de-estudio-grado-tecnico-SMR/blob/Libros-de-texto-oficiales-Grado-tecnico-SRM/fp_smx_m05_material_paper.pdf.7z.004">[Redes de Área Local - Parte 04]</a>
+    *   <a href="https://github.com/SantiagoGarciaSantiagoTECSRM/Materiales-de-estudio-grado-tecnico-SMR/blob/Libros-de-texto-oficiales-Grado-tecnico-SRM/fp_smx_m05_material_paper.pdf.7z.005">[Redes de Área Local - Parte 05]</a>
+    *   <a href="https://github.com/SantiagoGarciaSantiagoTECSRM/Materiales-de-estudio-grado-tecnico-SMR/blob/Libros-de-texto-oficiales-Grado-tecnico-SRM/fp_smx_m05_material_paper.pdf.7z.006">[Redes de Área Local - Parte 06]</a>
 
 #### 🖥️ Servicios en Red [SX]
 *   [📂 Carpeta del Libro de Servicios]
 *   📚 **Capítulos:**
-    *   <a href="">[Servicios en Red - Parte 01]</a>
-    *   <a href="">[Servicios en Red - Parte 02]</a>
-    *   <a href="">[Servicios en Red - Parte 03]</a>
-    *   <a href="">[Servicios en Red - Parte 04]</a>
-    *   <a href="">[Servicios en Red - Parte 05]</a>
-
-
-
-
-
-
-
-
-
-
-
-
-<table style="margin: 0 auto; width: 50%; border-collapse: collapse; align:center;"">
-  <tr>
-    <th style="border: 1px solid black; padding: 8px;"> &emsp; &emsp; &emsp;&emsp; &emsp; &emsp;&emsp; &emsp; &emsp;&emsp; &emsp;  &emsp;&emsp; &emsp; &emsp;&emsp;  Redes de area local - Libro oficial [XL] &emsp; &emsp;&emsp;  &emsp;&emsp; &emsp;  &emsp;&emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;</th>
-  </tr>
-  <tr>
-    <td style="border: 1px solid black; padding: 8px;">
-     <a href="https://github.com/SantiagoGarciaSantiagoTECSRM/Materiales-de-estudio-grado-tecnico-SMR/blob/Libros-de-texto-oficiales-Grado-tecnico-SRM/fp_smx_m05_material_paper.pdf.7z.001">Redes_area_local_001[XL]</a>   &emsp;&emsp;&emsp;&emsp; &emsp;&emsp;&emsp;&emsp;&emsp; &emsp;<a href="https://github.com/SantiagoGarciaSantiagoTECSRM/Materiales-de-estudio-grado-tecnico-SMR/blob/Libros-de-texto-oficiales-Grado-tecnico-SRM/fp_smx_m05_material_paper.pdf.7z.002">Redes_area_local_002[XL];</a>
- &emsp; &emsp; &emsp;&emsp;&emsp;&emsp; &emsp;<a href="https://github.com/SantiagoGarciaSantiagoTECSRM/Materiales-de-estudio-grado-tecnico-SMR/blob/Libros-de-texto-oficiales-Grado-tecnico-SRM/fp_smx_m05_material_paper.pdf.7z.003">Redes_area_local_003[XL]</a> 
-     </td>
- 
-  </tr>
-
-  <tr>
-    <td style="border: 1px solid black; padding: 8px;">
-     <a href="https://github.com/SantiagoGarciaSantiagoTECSRM/Materiales-de-estudio-grado-tecnico-SMR/blob/Libros-de-texto-oficiales-Grado-tecnico-SRM/fp_smx_m05_material_paper.pdf.7z.004">Redes_area_local_004[XL]</a>   &emsp;&emsp;&emsp;&emsp; &emsp;&emsp;&emsp;&emsp;&emsp; &emsp;<a href="https://github.com/SantiagoGarciaSantiagoTECSRM/Materiales-de-estudio-grado-tecnico-SMR/blob/Libros-de-texto-oficiales-Grado-tecnico-SRM/fp_smx_m05_material_paper.pdf.7z.005">Redes_area_local_005[XL];</a>
- &emsp; &emsp; &emsp;&emsp;&emsp;&emsp; &emsp;<a href="https://github.com/SantiagoGarciaSantiagoTECSRM/Materiales-de-estudio-grado-tecnico-SMR/blob/Libros-de-texto-oficiales-Grado-tecnico-SRM/fp_smx_m05_material_paper.pdf.7z.006">Redes_area_local_006[XL]</a> 
-     </td>
- 
-  </tr>
-  
-</table>
-
-<br>
-
-
-<table style="margin: 0 auto; width: 50%; border-collapse: collapse; align:center;"">
-  <tr>
-    <th style="border: 1px solid black; padding: 8px;"> &emsp; &emsp; &emsp;&emsp; &emsp; &emsp;&emsp; &emsp; &emsp;&emsp; &emsp;  &emsp;&emsp; &emsp; &emsp;&emsp; Servicios en red - Libro oficial [SX] &emsp; &emsp;&emsp;  &emsp;&emsp; &emsp;  &emsp;&emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;</th>
-  </tr>
-  <tr>
-    <td style="border: 1px solid black; padding: 8px;">
-     <a href="https://github.com/SantiagoGarciaSantiagoTECSRM/Materiales-de-estudio-grado-tecnico-SMR/blob/Libros-de-texto-oficiales-Grado-tecnico-SRM/fp_smx_m07_Servicios_en_red.pdf.7z.001">Servicios_en_red_001[SX]</a>   &emsp;&emsp;&emsp;&emsp; &emsp;&emsp;&emsp;&emsp;&emsp; &emsp;<a href="https://github.com/SantiagoGarciaSantiagoTECSRM/Materiales-de-estudio-grado-tecnico-SMR/blob/Libros-de-texto-oficiales-Grado-tecnico-SRM/fp_smx_m07_Servicios_en_red.pdf.7z.002">Servicios_en_red_002[SX]</a>
- &emsp; &emsp; &emsp;&emsp;&emsp;&emsp; &emsp;<a href="https://github.com/SantiagoGarciaSantiagoTECSRM/Materiales-de-estudio-grado-tecnico-SMR/blob/Libros-de-texto-oficiales-Grado-tecnico-SRM/fp_smx_m07_Servicios_en_red.pdf.7z.003">Servicios_en_red_003[SX]</a> 
-     </td>
- 
-  </tr>
-
-  <tr>
-    <td style="border: 1px solid black; padding: 8px;">
-     <a href="https://github.com/SantiagoGarciaSantiagoTECSRM/Materiales-de-estudio-grado-tecnico-SMR/blob/Libros-de-texto-oficiales-Grado-tecnico-SRM/fp_smx_m07_Servicios_en_red.pdf.7z.004">Servicios_en_red_004[SX]</a>   &emsp;&emsp;&emsp;&emsp; &emsp;&emsp;&emsp;&emsp;&emsp; &emsp;<a href="https://github.com/SantiagoGarciaSantiagoTECSRM/Materiales-de-estudio-grado-tecnico-SMR/blob/Libros-de-texto-oficiales-Grado-tecnico-SRM/fp_smx_m07_Servicios_en_red.pdf.7z.005">Servicios_en_red_005[SX]</a>
- &emsp; &emsp; &emsp;&emsp;&emsp;&emsp; &emsp;
-     </td>
- 
-  </tr>
-  
-</table>
-
-
-
+    *   <a href="https://github.com/SantiagoGarciaSantiagoTECSRM/Materiales-de-estudio-grado-tecnico-SMR/blob/Libros-de-texto-oficiales-Grado-tecnico-SRM/fp_smx_m07_Servicios_en_red.pdf.7z.001">[Servicios en Red - Parte 01]</a>
+    *   <a href="https://github.com/SantiagoGarciaSantiagoTECSRM/Materiales-de-estudio-grado-tecnico-SMR/blob/Libros-de-texto-oficiales-Grado-tecnico-SRM/fp_smx_m07_Servicios_en_red.pdf.7z.002">[Servicios en Red - Parte 02]</a>
+    *   <a href="https://github.com/SantiagoGarciaSantiagoTECSRM/Materiales-de-estudio-grado-tecnico-SMR/blob/Libros-de-texto-oficiales-Grado-tecnico-SRM/fp_smx_m07_Servicios_en_red.pdf.7z.003">[Servicios en Red - Parte 03]</a>
+    *   <a href="https://github.com/SantiagoGarciaSantiagoTECSRM/Materiales-de-estudio-grado-tecnico-SMR/blob/Libros-de-texto-oficiales-Grado-tecnico-SRM/fp_smx_m07_Servicios_en_red.pdf.7z.004">[Servicios en Red - Parte 04]</a>
+    *   <a href="https://github.com/SantiagoGarciaSantiagoTECSRM/Materiales-de-estudio-grado-tecnico-SMR/blob/Libros-de-texto-oficiales-Grado-tecnico-SRM/fp_smx_m07_Servicios_en_red.pdf.7z.005">[Servicios en Red - Parte 05]</a>
 
 
 
