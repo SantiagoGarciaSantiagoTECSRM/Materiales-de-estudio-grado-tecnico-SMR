@@ -102,77 +102,15 @@ Descargando el archivo y abriéndolo en su sistema.
     *   <a href="https://github.com/SantiagoGarciaSantiagoTECSRM/Materiales-de-estudio-grado-tecnico-SMR/blob/laboratorio-segundo-a%C3%B1o-SRM-SI/visor%20de%20eventos%20en%20Windows%2010.pdf">[Visor de eventos W10]</a>
 
 
+### 🌐 Servicios en Red [SX]
 
-
-
-
-
-
-
-<table style="margin: 0 auto; width: 50%; border-collapse: collapse; align:center;"">
-  <tr>
-    <th style="border: 1px solid black; padding: 8px;">&emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; Seguridad informatica [SI] [Pentesting] &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;  </th>
-  </tr>
-  <tr>
-    <td style="border: 1px solid black; padding: 8px;">
-     <a href="">[02]SI_apuntes_año_02 -IDX.pdf </a>   
- 
-  </tr>
-  
-</table>
-
-
-<table style="margin: 0 auto; width: 50%; border-collapse: collapse; align:center;"">
-  <tr>
-    <th style="border: 1px solid black; padding: 8px;">Dosieres y laboratorios [SI]</th>
-  </tr>
-  <tr>
-    <td style="border: 1px solid black; padding: 8px;">
-     <a href="">Apunts 5.1 - Protecció sistema d'arrencada.pdf (GRUB) </a>  &emsp;   <a href=""> Apunts 5.2 - Directives de seguretat.pdf  </a>  &emsp;    <br>     <a href="">Apunts 7.1 - Instal·lació i configuració de RSYSLOG.pdf </a>  &thinsp; &thinsp; &thinsp;<a href="">  Apunts 7.2 - Configuració UFW.pdf  </a> &emsp; &thinsp; &emsp; &emsp;  <br> <a href=""> Apunts 7.3 - Instal·lació i configuració d'Squid.pdf  </a>  </td>
-  </tr>
-
-  <tr>
-    <td style="border: 1px solid black; padding: 8px;">
-     <a href="">Auditar los intentos de inicio de sesión en Windows 10.pdf </a>  &emsp; &emsp; &emsp;<a href="f"> Manual de GPG  </a> &emsp; &emsp; &emsp; &emsp;  &emsp;  &thinsp; <a href="">Laboratorio [Hamachi] </a>  <br>     <a href="">Laboratorio [instalación y configuración de RSYSLOG] </a>  &emsp; &thinsp; &emsp; &emsp;  &thinsp; &emsp;<a href=" ">Introducción a la criptografía   </a>  &thinsp;  &thinsp;<a href=""> Cifrado asimétrico GPG </a> &emsp; &emsp;&thinsp; &thinsp;   </td>
-  </tr>
-
-  <tr>
-    <td style="border: 1px solid black; padding: 8px;">
-     <a href="">Seguridad activa </a>  &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;&emsp; &emsp; &emsp;&emsp; &emsp; &emsp;&emsp;  &emsp;&emsp; &emsp;&emsp; &emsp; &emsp;<a href="">   Visor de eventos W10  </a> &emsp; &emsp; &emsp; &emsp;  &emsp; &emsp; &thinsp; &emsp; &emsp; </td>
-  </tr>
-  
-
-</table>
-
-
-<table style="margin: 0 auto; width: 50%; border-collapse: collapse; align:center;"">
-  <tr>
-    <th style="border: 1px solid black; padding: 8px;">Servicios en Red - Laboratorios [SX]</th>
-  </tr>
-  <tr>
-    <td style="border: 1px solid black; padding: 8px;">
-    <a href="https://github.com/SantiagoGarciaSantiagoTECSRM/Materiales-de-estudio-grado-tecnico-SMR/blob/Laboratorio-segundo-a%C3%B1o-SX/%5B02%5DPractica_HTTP_proxy.pdf">[02]Practica_HTTP_proxy.pdf </a>  &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; <a href="https://github.com/SantiagoGarciaSantiagoTECSRM/Materiales-de-estudio-grado-tecnico-SMR/blob/Laboratorio-segundo-a%C3%B1o-SX/%5B02%5DSX_Practica_server_DNS%20-%20V03.pdf"> [02]SX_Practica_server_DNS  </a> &emsp;&emsp; &emsp; &emsp; &emsp;  &emsp; &emsp; &thinsp; <a href="https://github.com/SantiagoGarciaSantiagoTECSRM/Materiales-de-estudio-grado-tecnico-SMR/blob/Laboratorio-segundo-a%C3%B1o-SX/%5B02%5DSX_Practica_server_FTP%20-%20V00-1.pdf">[02]SX_Practica_server_FTP </a>  <br>     <a href="https://github.com/SantiagoGarciaSantiagoTECSRM/Materiales-de-estudio-grado-tecnico-SMR/blob/Laboratorio-segundo-a%C3%B1o-SX/%5B02%5Dsx_pratica_DHCP_01.pdf">[02]SX_Practica_Configuracion_DHCP  </a>  &emsp; &thinsp; &emsp; &emsp;&emsp; &emsp; &thinsp;  <a href="https://github.com/SantiagoGarciaSantiagoTECSRM/Materiales-de-estudio-grado-tecnico-SMR/blob/Laboratorio-segundo-a%C3%B1o-SX/%5B02%5D%5BDEF%5DPractica_SMTP.pdf"> [02][DEF]Practica_SMTP.pdf   </a> &emsp; &thinsp; &emsp; &emsp;   &emsp;  </td> 
-  </tr>
-
-</table>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+*   [📂 Carpeta principal de Servicios]
+*   🧪 **Laboratorios:**
+    *   <a href="https://github.com/SantiagoGarciaSantiagoTECSRM/Materiales-de-estudio-grado-tecnico-SMR/blob/Laboratorio-segundo-a%C3%B1o-SX/%5B02%5DPractica_HTTP_proxy.pdf">[[02] Práctica HTTP Proxy]</a>
+    *   <a href="https://github.com/SantiagoGarciaSantiagoTECSRM/Materiales-de-estudio-grado-tecnico-SMR/blob/Laboratorio-segundo-a%C3%B1o-SX/%5B02%5DSX_Practica_server_DNS%20-%20V03.pdf">[[02] SX Práctica Server DNS]</a>
+    *   <a href="https://github.com/SantiagoGarciaSantiagoTECSRM/Materiales-de-estudio-grado-tecnico-SMR/blob/Laboratorio-segundo-a%C3%B1o-SX/%5B02%5DSX_Practica_server_FTP%20-%20V00-1.pdf">[[02] SX Práctica Server FTP]</a>
+    *   <a href="https://github.com/SantiagoGarciaSantiagoTECSRM/Materiales-de-estudio-grado-tecnico-SMR/blob/Laboratorio-segundo-a%C3%B1o-SX/%5B02%5Dsx_pratica_DHCP_01.pdf">[[02] SX Práctica Configuración DHCP]</a>
+    *   <a href="https://github.com/SantiagoGarciaSantiagoTECSRM/Materiales-de-estudio-grado-tecnico-SMR/blob/Laboratorio-segundo-a%C3%B1o-SX/%5B02%5D%5BDEF%5DPractica_SMTP.pdf">[[02] [DEF] Práctica SMTP]</a>
 
 
 
