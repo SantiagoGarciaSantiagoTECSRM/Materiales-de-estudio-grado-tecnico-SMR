@@ -179,7 +179,7 @@ Descargando el archivo y abriéndolo en su sistema.
 ### 📖 <a name="año_01_02">Libros Oficiales</a>
 ### 🖧 Sistemas Operativos Mono Puesto - Libros oficiales [SOM] 
 
-*   [📂 Carpeta principal de SOM]
+*   <a href="https://github.com/SantiagoGarciaSantiagoTECSRM/Materiales-de-estudio-grado-tecnico-SMR/blob/Libros-de-texto-oficiales-Grado-tecnico-SRM/README.md">[📂 Libros Oficiales SMR Illes Balears]</a>
 *    📚 **Sistemas primer año**
      *   <a href="https://github.com/SantiagoGarciaSantiagoTECSRM/Materiales-de-estudio-grado-tecnico-SMR/blob/Libros-de-texto-oficiales-Grado-tecnico-SRM/fp_smx_m02_u1_pdfindex.pdf">[ [Introducción a los sistemas operativosSOM]</a>
      *   <a href="https://github.com/SantiagoGarciaSantiagoTECSRM/Materiales-de-estudio-grado-tecnico-SMR/blob/Libros-de-texto-oficiales-Grado-tecnico-SRM/fp_smx_m02_u2_pdfindex.pdf">[ [Sistemas operativos propietarios SOM]</a>
@@ -188,13 +188,13 @@ Descargando el archivo y abriéndolo en su sistema.
 
 ### 📚 Material Adicional - Libros Oficiales [XL]
 
-*   [📂 Carpeta de Libros Adicionales]
+
 *   📄 <a href="https://github.com/SantiagoGarciaSantiagoTECSRM/Materiales-de-estudio-grado-tecnico-SMR/blob/Libros-de-texto-oficiales-Grado-tecnico-SRM/teoria_linux_%20SOXL.pdf">[Presentación Linux [XL | SOM]]</a>
 *   📊 <a href="https://github.com/SantiagoGarciaSantiagoTECSRM/Materiales-de-estudio-grado-tecnico-SMR/blob/Libros-de-texto-oficiales-Grado-tecnico-SRM/XL-ACT-7-3_tracer_recull.pdf">[Recull Tracer [XL]]</a>
 
 
 #### 🌐 Redes de Área Local [XL]
-*   [📂 Carpeta del Libro de Redes]
+
 *   📚 **Redes de Área Local**
     *   <a href="https://github.com/SantiagoGarciaSantiagoTECSRM/Materiales-de-estudio-grado-tecnico-SMR/blob/Libros-de-texto-oficiales-Grado-tecnico-SRM/fp_smx_m05_material_paper.pdf.7z.001">[Redes de Área Local - Parte 01]</a>
     *   <a href="https://github.com/SantiagoGarciaSantiagoTECSRM/Materiales-de-estudio-grado-tecnico-SMR/blob/Libros-de-texto-oficiales-Grado-tecnico-SRM/fp_smx_m05_material_paper.pdf.7z.002">[Redes de Área Local - Parte 02]</a>
@@ -204,7 +204,7 @@ Descargando el archivo y abriéndolo en su sistema.
     *   <a href="https://github.com/SantiagoGarciaSantiagoTECSRM/Materiales-de-estudio-grado-tecnico-SMR/blob/Libros-de-texto-oficiales-Grado-tecnico-SRM/fp_smx_m05_material_paper.pdf.7z.006">[Redes de Área Local - Parte 06]</a>
 
 #### 🖥️ Servicios en Red [SX]
-*   [📂 Carpeta del Libro de Servicios]
+
 *   📚 **Servicios en Red**
     *   <a href="https://github.com/SantiagoGarciaSantiagoTECSRM/Materiales-de-estudio-grado-tecnico-SMR/blob/Libros-de-texto-oficiales-Grado-tecnico-SRM/fp_smx_m07_Servicios_en_red.pdf.7z.001">[Servicios en Red - Parte 01]</a>
     *   <a href="https://github.com/SantiagoGarciaSantiagoTECSRM/Materiales-de-estudio-grado-tecnico-SMR/blob/Libros-de-texto-oficiales-Grado-tecnico-SRM/fp_smx_m07_Servicios_en_red.pdf.7z.002">[Servicios en Red - Parte 02]</a>
