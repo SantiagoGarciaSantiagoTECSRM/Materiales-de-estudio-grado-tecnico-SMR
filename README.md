@@ -61,12 +61,12 @@ Descargando el archivo y abriéndolo en su sistema.
     *  <a href="https://github.com/SantiagoGarciaSantiagoTECSRM/Materiales-de-estudio-grado-tecnico-SRM/blob/Apuntes-y-ejercicios-del-primer-a%C3%B1o-SRM/Ejercicio_SOM_%5B01%5Dpuntos_restauracion.pdf">  [05 - Puntos de Restauración] </a>
 
 #### 📌 Segunda Evaluación
-*   [📂 Carpeta principal de la unidad]
+
 *   📄 **Apuntes:**
     *   <a href="https://github.com/SantiagoGarciaSantiagoTECSRM/Materiales-de-estudio-grado-tecnico-SMR/blob/Apuntes-y-ejercicios-del-primer-a%C3%B1o-SRM/%5B01%5DApuntes_SOM_edva_02_%20-IDX.pdf"> [Fundamentos de Sistemas 02] </a>
 
 #### 📌 Tercera Evaluación
-*   [📂 Carpeta principal de la unidad]
+
 *   📄 **Apuntes:**
     *    <a href="https://github.com/SantiagoGarciaSantiagoTECSRM/Materiales-de-estudio-grado-tecnico-SMR/blob/Apuntes-y-ejercicios-del-primer-a%C3%B1o-SRM/%5B01%5Dapuntes_finales_SOM%203edva_-%20IDX.pdf"> [Fundamentos de Sistemas 03] </a>
     * <a href="https://github.com/SantiagoGarciaSantiagoTECSRM/Materiales-de-estudio-grado-tecnico-SMR/blob/Apuntes-y-ejercicios-del-primer-a%C3%B1o-SRM/%5BEX%5DApuntes_linux_SOM_IDX.pdf">  [Apuntes Finales Linux IDX]  </a>
@@ -83,7 +83,7 @@ Descargando el archivo y abriéndolo en su sistema.
 
 ### 🛡️ Seguridad Informática y Pentesting [SI]
 
-*   [📂 Carpeta principal de Seguridad]
+*   <a href="https://github.com/SantiagoGarciaSantiagoTECSRM/Materiales-de-estudio-grado-tecnico-SMR/edit/laboratorio-segundo-a%C3%B1o-SRM-SI/README.md">[📂 Laboratorio Pentesting]</a>
 *   📄 **Apuntes:**
     *   <a href="https://github.com/SantiagoGarciaSantiagoTECSRM/Materiales-de-estudio-grado-tecnico-SMR/blob/Apuntes-del-segundo-a%C3%B1o-de-SRM/%5B02%5DSI_apuntes_a%C3%B1o_02%20-IDX.pdf">[[02] Apuntes Año 02 - IDX]</a>
 *   🧪 **Dosieres y Laboratorios:**
