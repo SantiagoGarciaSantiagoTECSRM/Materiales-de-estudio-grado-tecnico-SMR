@@ -137,7 +137,7 @@ Descargando el archivo y abriéndolo en su sistema.
 
   ### 🖧 Sistemas Operativos en Red [SOR]
 
-*   [📂 Carpeta principal de SOR]
+*   <a href="https://github.com/SantiagoGarciaSantiagoTECSRM/Materiales-de-estudio-grado-tecnico-SMR/blob/Laboratorio-segundo-a%C3%B1os-SRM-LDAP-SOX/README.md">[📂 Sistemas Operativos en Red_lab_Linux]</a> | <a href="https://github.com/SantiagoGarciaSantiagoTECSRM/Materiales-de-estudio-grado-tecnico-SMR/blob/Laboratorio-segundo-a%C3%B1o-SRM-Active-directory-SOX/README.md">[📂 Sistemas Operativos en Red_lab_Windows]</a>
 *   📄 **Apuntes:**
     *   <a href="https://github.com/SantiagoGarciaSantiagoTECSRM/Materiales-de-estudio-grado-tecnico-SMR/blob/Apuntes-del-segundo-a%C3%B1o-de-SRM/%5BEX%5DApuntes_linux_SOM_IDX.pd">[ [EX] Apuntes Linux SOM IDX]</a>
 *   🧪 **Laboratorio Linux LDAP:**
