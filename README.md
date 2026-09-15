@@ -181,9 +181,9 @@ Descargando el archivo y abriéndolo en su sistema.
 
 *   [📂 Carpeta principal de SOM]
 *    📚 **Sistemas primer año**
-    *   <a href="https://github.com/SantiagoGarciaSantiagoTECSRM/Materiales-de-estudio-grado-tecnico-SMR/blob/Libros-de-texto-oficiales-Grado-tecnico-SRM/fp_smx_m02_u1_pdfindex.pdf">[ [Introducción a los sistemas operativosSOM]</a>
-    *   <a href="https://github.com/SantiagoGarciaSantiagoTECSRM/Materiales-de-estudio-grado-tecnico-SMR/blob/Libros-de-texto-oficiales-Grado-tecnico-SRM/fp_smx_m02_u2_pdfindex.pdf">[ [Sistemas operativos propietarios SOM]</a>
-    *   <a href="https://github.com/SantiagoGarciaSantiagoTECSRM/Materiales-de-estudio-grado-tecnico-SMR/blob/Libros-de-texto-oficiales-Grado-tecnico-SRM/fp_smx_m02_u3_pdfindex.pdf">[ [Sistemas operativos libres SOM]</a>   
+     *   <a href="https://github.com/SantiagoGarciaSantiagoTECSRM/Materiales-de-estudio-grado-tecnico-SMR/blob/Libros-de-texto-oficiales-Grado-tecnico-SRM/fp_smx_m02_u1_pdfindex.pdf">[ [Introducción a los sistemas operativosSOM]</a>
+     *   <a href="https://github.com/SantiagoGarciaSantiagoTECSRM/Materiales-de-estudio-grado-tecnico-SMR/blob/Libros-de-texto-oficiales-Grado-tecnico-SRM/fp_smx_m02_u2_pdfindex.pdf">[ [Sistemas operativos propietarios SOM]</a>
+     *   <a href="https://github.com/SantiagoGarciaSantiagoTECSRM/Materiales-de-estudio-grado-tecnico-SMR/blob/Libros-de-texto-oficiales-Grado-tecnico-SRM/fp_smx_m02_u3_pdfindex.pdf">[ [Sistemas operativos libres SOM]</a>   
 
 
 ### 📚 Material Adicional - Libros Oficiales [XL]
