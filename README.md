@@ -104,7 +104,7 @@ Descargando el archivo y abriéndolo en su sistema.
 
 ### 🌐 Servicios en Red [SX]
 
-*   [📂 Carpeta principal de Servicios]
+*   <a href="https://github.com/SantiagoGarciaSantiagoTECSRM/Materiales-de-estudio-grado-tecnico-SMR/blob/Laboratorio-segundo-a%C3%B1o-SX/README.md">[📂 Servicios en Red]</a>
 *   🧪 **Laboratorios:**
     *   <a href="https://github.com/SantiagoGarciaSantiagoTECSRM/Materiales-de-estudio-grado-tecnico-SMR/blob/Laboratorio-segundo-a%C3%B1o-SX/%5B02%5DPractica_HTTP_proxy.pdf">[[02] Práctica HTTP Proxy]</a>
     *   <a href="https://github.com/SantiagoGarciaSantiagoTECSRM/Materiales-de-estudio-grado-tecnico-SMR/blob/Laboratorio-segundo-a%C3%B1o-SX/%5B02%5DSX_Practica_server_DNS%20-%20V03.pdf">[[02] SX Práctica Server DNS]</a>
