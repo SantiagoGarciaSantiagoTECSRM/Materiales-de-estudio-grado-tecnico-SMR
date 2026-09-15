@@ -1,7 +1,6 @@
 >[!WARNING]
->#---------- En elaboracion, este repositorio no esta concluido  --------------
 >Los archivos son pesados, si no se ven al seguir el enlace, recargue la página.   
-># Ultima revisión: 14-09-2026
+># Ultima revisión: 15-09-2026
  
 
 
