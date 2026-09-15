@@ -1,27 +1,9 @@
 
 
 <hr>
- &thinsp;<a href="https://github.com/SantiagoGarciaSantiagoTECSRM/Materiales-de-estudio-grado-tecnico-SMR">|Indice|</a>
+ &thinsp;<a href="https://github.com/SantiagoGarciaSantiagoTECSRM/Materiales-de-estudio-grado-tecnico-SMR">[📂Repositorio Indice]</a>
  <hr>
 <br>
-
-
-
-
-
-<table style="margin: 0 auto; width: 50%; border-collapse: collapse; align:center;"">
-  <tr>
-    <th style="border: 1px solid black; padding: 8px;">Servicios en Red - Laboratorios [SX]</th>
-  </tr>
-  <tr>
-    <td style="border: 1px solid black; padding: 8px;">
-    <a href="https://github.com/SantiagoGarciaSantiagoTECSRM/Materiales-de-estudio-grado-tecnico-SMR/blob/Laboratorio-segundo-a%C3%B1o-SX/%5B02%5DPractica_HTTP_proxy.pdf">[02]Practica_HTTP_proxy.pdf </a>  &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; <a href="https://github.com/SantiagoGarciaSantiagoTECSRM/Materiales-de-estudio-grado-tecnico-SMR/blob/Laboratorio-segundo-a%C3%B1o-SX/%5B02%5DSX_Practica_server_DNS%20-%20V03.pdf"> [02]SX_Practica_server_DNS  </a> &emsp;&emsp; &emsp; &emsp; &emsp;  &emsp; &emsp; &thinsp; <a href="https://github.com/SantiagoGarciaSantiagoTECSRM/Materiales-de-estudio-grado-tecnico-SMR/blob/Laboratorio-segundo-a%C3%B1o-SX/%5B02%5DSX_Practica_server_FTP%20-%20V00-1.pdf">[02]SX_Practica_server_FTP </a>  <br>     <a href="https://github.com/SantiagoGarciaSantiagoTECSRM/Materiales-de-estudio-grado-tecnico-SMR/blob/Laboratorio-segundo-a%C3%B1o-SX/%5B02%5Dsx_pratica_DHCP_01.pdf">[02]SX_Practica_Configuracion_DHCP  </a>  &emsp; &thinsp; &emsp; &emsp;&emsp; &emsp; &thinsp;  <a href="https://github.com/SantiagoGarciaSantiagoTECSRM/Materiales-de-estudio-grado-tecnico-SMR/blob/Laboratorio-segundo-a%C3%B1o-SX/%5B02%5D%5BDEF%5DPractica_SMTP.pdf"> [02][DEF]Practica_SMTP.pdf   </a> &emsp; &thinsp; &emsp; &emsp;   &emsp;  </td> 
-  </tr>
-
-</table>
-
-
-
 
 
 
@@ -41,6 +23,19 @@
 
  
 <br>
+
+
+
+
+### 🌐 Servicios en Red [SX]
+
+*   🧪 **Laboratorios:**
+    *   <a href="https://github.com/SantiagoGarciaSantiagoTECSRM/Materiales-de-estudio-grado-tecnico-SMR/blob/Laboratorio-segundo-a%C3%B1o-SX/%5B02%5DPractica_HTTP_proxy.pdf">[[02] Práctica HTTP Proxy]</a>
+    *   <a href="https://github.com/SantiagoGarciaSantiagoTECSRM/Materiales-de-estudio-grado-tecnico-SMR/blob/Laboratorio-segundo-a%C3%B1o-SX/%5B02%5DSX_Practica_server_DNS%20-%20V03.pdf">[[02] SX Práctica Server DNS]</a>
+    *   <a href="https://github.com/SantiagoGarciaSantiagoTECSRM/Materiales-de-estudio-grado-tecnico-SMR/blob/Laboratorio-segundo-a%C3%B1o-SX/%5B02%5DSX_Practica_server_FTP%20-%20V00-1.pdf">[[02] SX Práctica Server FTP]</a>
+    *   <a href="https://github.com/SantiagoGarciaSantiagoTECSRM/Materiales-de-estudio-grado-tecnico-SMR/blob/Laboratorio-segundo-a%C3%B1o-SX/%5B02%5Dsx_pratica_DHCP_01.pdf">[[02] SX Práctica Configuración DHCP]</a>
+    *   <a href="https://github.com/SantiagoGarciaSantiagoTECSRM/Materiales-de-estudio-grado-tecnico-SMR/blob/Laboratorio-segundo-a%C3%B1o-SX/%5B02%5D%5BDEF%5DPractica_SMTP.pdf">[[02] [DEF] Práctica SMTP]</a>
+
 
 <hr>
 
