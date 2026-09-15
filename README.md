@@ -3,6 +3,16 @@
  &thinsp;<a href="https://github.com/SantiagoGarciaSantiagoTECSRM/Materiales-de-estudio-grado-tecnico-SMR"> [📂 Indice Repositorio]|</a>
  <hr>
 
+<br>
+
+>[!WARNING]
+># Estos son todos los materiales de estudio del primer año [SMR]
+># Si no se carga el PDF, recargue la pagina, son documentos pesados.  
+># Si quiere emplear el índice interactivo, tendrá que descargar el PDF.
+
+<br>
+
+
 #### 📌 Primera Evaluación
 *   📄 **Apuntes:**
     *  <a href="https://github.com/SantiagoGarciaSantiagoTECSRM/Materiales-de-estudio-grado-tecnico-SMR/blob/Apuntes-y-ejercicios-del-primer-a%C3%B1o-SRM/Apuntes_corregidos_SOM.pdf"> [Fundamentos de Sistemas]  </a> 
