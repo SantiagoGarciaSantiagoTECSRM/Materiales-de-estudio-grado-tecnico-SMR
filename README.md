@@ -2,8 +2,6 @@
 <hr>
  &thinsp;<a href="https://github.com/SantiagoGarciaSantiagoTECSRM/Materiales-de-estudio-grado-tecnico-SMR"> [📂 Indice Repositorio]|</a>
  <hr>
-<br>
-
 
 #### 📌 Primera Evaluación
 *   📄 **Apuntes:**
@@ -32,11 +30,9 @@
     * <a href="https://github.com/SantiagoGarciaSantiagoTECSRM/Materiales-de-estudio-grado-tecnico-SMR/blob/Apuntes-y-ejercicios-del-primer-a%C3%B1o-SRM/%5BEX%5Ddosier_def_redes_-IDX.pdf">  [Dosier de Redes EX  XL]  </a>
     *  <a href="https://github.com/SantiagoGarciaSantiagoTECSRM/Materiales-de-estudio-grado-tecnico-SMR/blob/Apuntes-y-ejercicios-del-primer-a%C3%B1o-SRM/anexo_conversion_SI_TI.pdf"> [Anexo conversiones IT SOM/XL] </a>
 
-
-
 <br>
 
 
 <hr>
 
-<br>
+
