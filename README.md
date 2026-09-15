@@ -1,6 +1,6 @@
 
 <hr>
- &thinsp;<a href="https://github.com/SantiagoGarciaSantiagoTECSRM/Materiales-de-estudio-grado-tecnico-SMR">|Indice|</a>
+ &thinsp;<a href="https://github.com/SantiagoGarciaSantiagoTECSRM/Materiales-de-estudio-grado-tecnico-SMR"> [📂 Indice Repositorio]</a>
  <hr>
 <br>
 
